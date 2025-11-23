@@ -1,8 +1,10 @@
 # Battery Management System Segment Board
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/york-fs/bms-segment/ci.yml?label=DRC)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fyork-fs.github.io%2Fbms-segment%2Finfo.json&query=%24.pad_count&label=Pad%20Count)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fyork-fs.github.io%2Fbms-segment%2Finfo.json&query=%24.via_count&label=Via%20Count)
+![Revision](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fyork-fs.github.io%2Fbms-segment%2Finfo.json&query=%24.revision&label=Revision)
+![Pad Count](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fyork-fs.github.io%2Fbms-segment%2Finfo.json&query=%24.pad_count&label=Pad%20Count)
+![Via Count](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fyork-fs.github.io%2Fbms-segment%2Finfo.json&query=%24.via_count&label=Via%20Count)
+![ERC Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fyork-fs.github.io%2Fbms-segment%2Ferc.json)
+![DRC Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fyork-fs.github.io%2Fbms-segment%2Fdrc.json)
 
 The distributed BMS segment board connects to a series string of 12 cells and can be queried over isolated I2C to sample
 cell voltages and temperatures.
