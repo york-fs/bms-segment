@@ -1660,7 +1660,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "8bde4bae-f77d-48ca-8e6b-ff5d6678394c")
@@ -1697,7 +1697,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1710,7 +1710,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1723,7 +1723,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3431,7 +3431,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "bead171c-dcba-48c2-9fdd-17e006b47991")
@@ -3468,7 +3468,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3481,7 +3481,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3494,7 +3494,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14025,7 +14025,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "2d0c872d-3275-4b65-8c71-f4c5e84d9723")
@@ -14062,7 +14062,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14075,7 +14075,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14088,7 +14088,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18914,7 +18914,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "727d1b0d-e0f4-4cb5-bfef-880018f134de")
@@ -18951,7 +18951,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18964,7 +18964,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18977,7 +18977,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22501,7 +22501,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "461a9d9f-fe97-4f28-a7f4-4096ba684798")
@@ -22538,7 +22538,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22551,7 +22551,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22564,7 +22564,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23260,7 +23260,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "4f6ec23e-61c5-4085-9648-7b33ca033be8")
@@ -23297,7 +23297,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23310,7 +23310,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23323,7 +23323,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25289,7 +25289,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "793e0dab-7b79-4483-a4ff-93acca467945")
@@ -25326,7 +25326,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25339,7 +25339,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25352,7 +25352,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25542,7 +25542,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "a4e1b4e9-b012-40a2-ba87-f61dec208619")
@@ -25579,7 +25579,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25592,7 +25592,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25605,7 +25605,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26809,7 +26809,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "6da4d50d-5b51-4155-9864-718756fa2277")
@@ -26846,7 +26846,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26859,7 +26859,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26872,7 +26872,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31418,7 +31418,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "00475a7e-785a-468f-9678-e2f1c3951c9e")
@@ -31455,7 +31455,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31468,7 +31468,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31481,7 +31481,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37688,7 +37688,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "4b37246e-532b-4a6b-9115-d4d20e3ecc06")
@@ -37725,7 +37725,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37738,7 +37738,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37751,7 +37751,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43000,7 +43000,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 0 2.62 0)
 			(layer "F.Fab")
 			(uuid "dc1687bd-6aed-4890-8180-1168cff45c22")
@@ -43037,7 +43037,7 @@
 				)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43050,7 +43050,7 @@
 				)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43063,7 +43063,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")

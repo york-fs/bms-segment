@@ -26856,7 +26856,7 @@
 			)
 		)
 		(instances
-			(project "bms"
+			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(page "3")
 				)
@@ -26898,7 +26898,7 @@
 			)
 		)
 		(instances
-			(project "bms"
+			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(page "2")
 				)

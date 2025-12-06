@@ -1224,7 +1224,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "20"
 			(at 130.81 52.07 0)
 			(effects
 				(font
@@ -1260,7 +1260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Dist #" "C2991665"
+		(property "Dist #" "C2479206"
 			(at 132.08 50.8 0)
 			(effects
 				(font
@@ -1269,7 +1269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "FH"
+		(property "Mfr" "SEI"
 			(at 132.08 50.8 0)
 			(effects
 				(font
@@ -1278,7 +1278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" "RPL-12K10R0FT"
+		(property "Mfr #" "RMCF2512FT20R0"
 			(at 132.08 50.8 0)
 			(effects
 				(font
