@@ -24527,7 +24527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816"
 			(at 270.51 95.25 0)
 			(effects
 				(font
@@ -24554,7 +24554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Dist #" "C720477"
+		(property "Dist #" "C139797"
 			(at 270.51 100.33 0)
 			(effects
 				(font
@@ -24563,7 +24563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "XUNPU"
+		(property "Mfr" "ALPSALPINE"
 			(at 270.51 100.33 0)
 			(effects
 				(font
@@ -24572,7 +24572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" "TS-1088-AR02016"
+		(property "Mfr #" "SKRPACE010"
 			(at 270.51 100.33 0)
 			(effects
 				(font
