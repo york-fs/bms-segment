@@ -3179,7 +3179,7 @@
 				)
 			)
 		)
-		(property "Value" "THERM_1"
+		(property "Value" "Conn_02x10_Odd_Even"
 			(at 209.55 69.85 0)
 			(effects
 				(font
@@ -3574,7 +3574,7 @@
 				)
 			)
 		)
-		(property "Value" "THERM_2"
+		(property "Value" "Conn_02x10_Odd_Even"
 			(at 209.55 97.79 0)
 			(effects
 				(font

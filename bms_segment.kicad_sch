@@ -2289,7 +2289,7 @@
 				(offset 0)
 				(hide yes)
 			)
-			(exclude_from_sim yes)
+			(exclude_from_sim no)
 			(in_bom no)
 			(on_board yes)
 			(property "Reference" "JP"
@@ -14301,7 +14301,7 @@
 				)
 			)
 		)
-		(property "Value" "CELL_TAPS"
+		(property "Value" "Conn_01x13"
 			(at 58.42 113.03 0)
 			(effects
 				(font
@@ -15078,7 +15078,7 @@
 				)
 			)
 		)
-		(property "Value" "I2C"
+		(property "Value" "Conn_01x04"
 			(at 135.89 67.31 0)
 			(effects
 				(font
@@ -17837,7 +17837,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SWD"
+		(property "Value" "Conn_01x05"
 			(at 270.51 86.3599 0)
 			(effects
 				(font
@@ -20181,7 +20181,7 @@
 				)
 			)
 		)
-		(property "Value" "I2C"
+		(property "Value" "Conn_01x04"
 			(at 153.67 62.23 0)
 			(effects
 				(font
@@ -23972,7 +23972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Dist #" ""
+		(property "Dist #" "C126576"
 			(at 162.56 156.21 0)
 			(effects
 				(font
@@ -23981,7 +23981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" ""
+		(property "Mfr" "Murata"
 			(at 162.56 156.21 0)
 			(effects
 				(font
@@ -23990,7 +23990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" ""
+		(property "Mfr #" "GCM1885C2A101JA16D"
 			(at 162.56 156.21 0)
 			(effects
 				(font
@@ -23999,7 +23999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Dist" ""
+		(property "Dist" "LCSC"
 			(at 162.56 156.21 0)
 			(effects
 				(font

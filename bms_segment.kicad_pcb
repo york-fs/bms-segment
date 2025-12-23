@@ -2567,7 +2567,7 @@
 				)
 			)
 		)
-		(property "Value" "I2C"
+		(property "Value" "Conn_01x04"
 			(at 3 4 90)
 			(layer "F.Fab")
 			(uuid "31d843f2-51db-49e5-a183-99ee59415d0d")
@@ -3937,7 +3937,7 @@
 				)
 			)
 		)
-		(property "Value" "CELL_TAPS"
+		(property "Value" "Conn_01x13"
 			(at 22.86 9.2 90)
 			(layer "F.Fab")
 			(uuid "c8a6602c-ce84-42f6-9dfd-034330469630")
@@ -5541,7 +5541,7 @@
 				)
 			)
 		)
-		(property "Value" "THERM_2"
+		(property "Value" "Conn_02x10_Odd_Even"
 			(at 9 13.3 90)
 			(layer "F.Fab")
 			(uuid "6eb4919c-c7ac-41f8-892c-4840beda0c81")
@@ -9362,7 +9362,7 @@
 				)
 			)
 		)
-		(property "Value" "THERM_1"
+		(property "Value" "Conn_02x10_Odd_Even"
 			(at 9 13.3 90)
 			(layer "F.Fab")
 			(uuid "de6adaee-97a1-423f-9bf4-0736aaa25f3d")
@@ -11445,7 +11445,7 @@
 				)
 			)
 		)
-		(property "Value" "SWD"
+		(property "Value" "Conn_01x05"
 			(at 0 12.49 90)
 			(layer "F.Fab")
 			(uuid "9089fd7b-1c0b-4b17-b2d7-8176f682ea2c")
@@ -14787,7 +14787,7 @@
 				)
 			)
 		)
-		(property "Value" "I2C"
+		(property "Value" "Conn_01x04"
 			(at 3 4 90)
 			(layer "F.Fab")
 			(uuid "31e0d5bd-1cb2-4b4e-835d-822040236a4b")
@@ -46270,7 +46270,7 @@
 				)
 			)
 		)
-		(property "Dist #" ""
+		(property "Dist #" "C126576"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46283,7 +46283,7 @@
 				)
 			)
 		)
-		(property "Mfr" ""
+		(property "Mfr" "Murata"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46296,7 +46296,7 @@
 				)
 			)
 		)
-		(property "Mfr #" ""
+		(property "Mfr #" "GCM1885C2A101JA16D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46309,7 +46309,7 @@
 				)
 			)
 		)
-		(property "Dist" ""
+		(property "Dist" "LCSC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
