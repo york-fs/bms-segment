@@ -342,7 +342,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic:Conn_01x05"
+		(symbol "Connector_Generic:Conn_01x06"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -358,8 +358,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x05"
-				(at 0 -7.62 0)
+			(property "Value" "Conn_01x06"
+				(at 0 -10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -384,7 +384,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -411,10 +411,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x05_1_1"
+			(symbol "Conn_01x06_1_1"
 				(rectangle
 					(start -1.27 6.35)
-					(end 1.27 -6.35)
+					(end 1.27 -8.89)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -470,6 +470,17 @@
 				(rectangle
 					(start -1.27 -4.953)
 					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -7.493)
+					(end 0 -7.747)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -561,6 +572,24 @@
 						)
 					)
 					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6953,6 +6982,10 @@
 		(uuid "7794239e-a326-4390-8191-082bcbc44ed3")
 	)
 	(no_connect
+		(at 265.43 77.47)
+		(uuid "9048e469-8f7f-4d0b-9bb1-751ecca18938")
+	)
+	(no_connect
 		(at 214.63 53.34)
 		(uuid "9b4b9da1-29d8-4583-b78d-bbc56a34742e")
 	)
@@ -7320,7 +7353,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 85.09) (xy 262.89 85.09)
+			(xy 250.19 85.09) (xy 265.43 85.09)
 		)
 		(stroke
 			(width 0)
@@ -7750,7 +7783,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 80.01) (xy 262.89 80.01)
+			(xy 250.19 80.01) (xy 265.43 80.01)
 		)
 		(stroke
 			(width 0)
@@ -7810,7 +7843,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 90.17) (xy 262.89 90.17)
+			(xy 250.19 90.17) (xy 265.43 90.17)
 		)
 		(stroke
 			(width 0)
@@ -8110,7 +8143,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 82.55) (xy 262.89 82.55)
+			(xy 261.62 82.55) (xy 265.43 82.55)
 		)
 		(stroke
 			(width 0)
@@ -9550,7 +9583,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 87.63) (xy 262.89 87.63)
+			(xy 260.35 87.63) (xy 265.43 87.63)
 		)
 		(stroke
 			(width 0)
@@ -17191,121 +17224,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x05")
-		(at 267.97 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5fd25560-e12b-4c27-9c90-a4d92ca6bfd5")
-		(property "Reference" "J5"
-			(at 270.51 83.8199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x05"
-			(at 270.51 86.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
-			(at 267.97 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 267.97 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 267.97 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dist #" ""
-			(at 267.97 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr" ""
-			(at 267.97 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr #" ""
-			(at 267.97 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dist" ""
-			(at 267.97 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "2f47f811-0850-419b-833f-bf8cf534f3e3")
-		)
-		(pin "1"
-			(uuid "7070fafa-3470-4b60-8669-79a3c353b069")
-		)
-		(pin "4"
-			(uuid "af2c0a4a-906e-4060-a156-e493b7c455ad")
-		)
-		(pin "3"
-			(uuid "10b1b993-8f9a-4d36-bbb0-780e4f4187a6")
-		)
-		(pin "2"
-			(uuid "52d2967d-eda0-4c0d-a352-0364751775e9")
-		)
-		(instances
-			(project "bms"
-				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 46.99 46.99 0)
 		(unit 1)
@@ -22812,7 +22730,7 @@
 		(dnp no)
 		(uuid "c7d510b6-a643-4d92-b424-d5c07cf5a346")
 		(property "Reference" "D1"
-			(at 254 72.39 0)
+			(at 254 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25039,6 +24957,124 @@
 			(project "bms"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x06")
+		(at 270.51 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ea0e469c-1ebc-44ef-b2dc-0e0b4e304594")
+		(property "Reference" "J5"
+			(at 269.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x06"
+			(at 273.05 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "yfs:IDC-Connector-2x3"
+			(at 270.51 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 270.51 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 270.51 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist #" "C42372545"
+			(at 270.51 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "hanxia"
+			(at 270.51 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr #" "HX JN1.27-2x3P ZZ H4.9"
+			(at 270.51 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist" "LCSC"
+			(at 270.51 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "eccf81ea-07ca-4967-8659-ffe8fe9762b5")
+		)
+		(pin "1"
+			(uuid "d22c12c5-c31f-4a7a-8621-fda3a172d70d")
+		)
+		(pin "4"
+			(uuid "b7f1098a-7b92-4ac7-b82a-cd8e47e97e79")
+		)
+		(pin "3"
+			(uuid "064b6812-b14f-4358-8594-c1034cdb1066")
+		)
+		(pin "2"
+			(uuid "56f55563-4e34-46a7-84a7-b8847633d4c5")
+		)
+		(pin "6"
+			(uuid "1c70e689-b858-40c6-bf1e-a4903909a18b")
+		)
+		(instances
+			(project "bms_segment"
+				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
+					(reference "J5")
 					(unit 1)
 				)
 			)
