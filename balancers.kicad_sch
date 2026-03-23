@@ -125,7 +125,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 162.56) (xy 55.88 162.56)
+			(xy 107.95 60.96) (xy 109.22 60.96)
 		)
 		(stroke
 			(width 0)
@@ -135,7 +135,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 149.86) (xy 38.1 149.86)
+			(xy 90.17 48.26) (xy 91.44 48.26)
 		)
 		(stroke
 			(width 0)
@@ -155,7 +155,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 134.62) (xy 38.1 134.62)
+			(xy 90.17 33.02) (xy 91.44 33.02)
 		)
 		(stroke
 			(width 0)
@@ -165,7 +165,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 160.02) (xy 38.1 160.02)
+			(xy 90.17 58.42) (xy 91.44 58.42)
 		)
 		(stroke
 			(width 0)
@@ -175,7 +175,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 172.72) (xy 38.1 172.72)
+			(xy 90.17 71.12) (xy 91.44 71.12)
 		)
 		(stroke
 			(width 0)
@@ -185,7 +185,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 124.46) (xy 38.1 124.46)
+			(xy 90.17 22.86) (xy 91.44 22.86)
 		)
 		(stroke
 			(width 0)
@@ -205,7 +205,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 137.16) (xy 38.1 137.16)
+			(xy 90.17 35.56) (xy 91.44 35.56)
 		)
 		(stroke
 			(width 0)
@@ -215,13 +215,23 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 147.32) (xy 38.1 147.32)
+			(xy 90.17 45.72) (xy 91.44 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "423f8851-31ad-4d67-9d0a-1a1d461652b2")
+	)
+	(wire
+		(pts
+			(xy 90.17 99.06) (xy 91.44 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a300d5f-de71-426c-b10c-38f5cebd17d9")
 	)
 	(wire
 		(pts
@@ -235,7 +245,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 149.86) (xy 55.88 149.86)
+			(xy 107.95 48.26) (xy 109.22 48.26)
 		)
 		(stroke
 			(width 0)
@@ -305,6 +315,26 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 111.76) (xy 91.44 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68fd4462-cecc-4850-8e1f-b8c994276a25")
+	)
+	(wire
+		(pts
+			(xy 90.17 109.22) (xy 91.44 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a169950-2404-4561-90ba-c78785d9e58b")
+	)
+	(wire
+		(pts
 			(xy 54.61 111.76) (xy 55.88 111.76)
 		)
 		(stroke
@@ -315,7 +345,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 137.16) (xy 55.88 137.16)
+			(xy 107.95 35.56) (xy 109.22 35.56)
 		)
 		(stroke
 			(width 0)
@@ -325,7 +355,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 187.96) (xy 38.1 187.96)
+			(xy 90.17 86.36) (xy 91.44 86.36)
 		)
 		(stroke
 			(width 0)
@@ -355,7 +385,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 162.56) (xy 38.1 162.56)
+			(xy 90.17 60.96) (xy 91.44 60.96)
 		)
 		(stroke
 			(width 0)
@@ -365,7 +395,17 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 185.42) (xy 38.1 185.42)
+			(xy 107.95 99.06) (xy 109.22 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "937a1ff5-8500-4797-9069-df479c52208d")
+	)
+	(wire
+		(pts
+			(xy 90.17 83.82) (xy 91.44 83.82)
 		)
 		(stroke
 			(width 0)
@@ -375,7 +415,17 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 175.26) (xy 38.1 175.26)
+			(xy 90.17 96.52) (xy 91.44 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ae503fa-6667-43ff-98fe-cbb1c1a6ae58")
+	)
+	(wire
+		(pts
+			(xy 90.17 73.66) (xy 91.44 73.66)
 		)
 		(stroke
 			(width 0)
@@ -405,7 +455,17 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 124.46) (xy 55.88 124.46)
+			(xy 107.95 111.76) (xy 109.22 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b31f85dd-6be9-4ef7-b6f8-92c5031d1daf")
+	)
+	(wire
+		(pts
+			(xy 107.95 22.86) (xy 109.22 22.86)
 		)
 		(stroke
 			(width 0)
@@ -425,7 +485,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 187.96) (xy 55.88 187.96)
+			(xy 107.95 86.36) (xy 109.22 86.36)
 		)
 		(stroke
 			(width 0)
@@ -435,7 +495,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 175.26) (xy 55.88 175.26)
+			(xy 107.95 73.66) (xy 109.22 73.66)
 		)
 		(stroke
 			(width 0)
@@ -525,7 +585,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 121.92) (xy 38.1 121.92)
+			(xy 90.17 20.32) (xy 91.44 20.32)
 		)
 		(stroke
 			(width 0)
@@ -567,7 +627,7 @@
 	)
 	(global_label "TAP10"
 		(shape input)
-		(at 36.83 134.62 180)
+		(at 90.17 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -577,7 +637,29 @@
 		)
 		(uuid "039e42b4-17a6-4ad1-bb15-a9ac6d11fb01")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9559 134.62 0)
+			(at 83.2959 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TAP15"
+		(shape input)
+		(at 90.17 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "0699245a-3dc4-477a-a66a-0da9bb6b1e54")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 83.2959 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -589,7 +671,7 @@
 	)
 	(global_label "TAP8"
 		(shape input)
-		(at 36.83 124.46 180)
+		(at 90.17 22.86 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -599,7 +681,7 @@
 		)
 		(uuid "0d94bc9a-e3d9-4b4b-a8d6-591114de4771")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.9083 124.46 0)
+			(at 84.2483 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -633,7 +715,7 @@
 	)
 	(global_label "TAP12"
 		(shape input)
-		(at 36.83 160.02 180)
+		(at 90.17 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -643,7 +725,29 @@
 		)
 		(uuid "26e48c3d-8487-4593-a09e-9b86ad8138dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9559 160.02 0)
+			(at 83.2959 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TAP15"
+		(shape input)
+		(at 90.17 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "2b391bfe-7997-4297-9da7-59b903f1e949")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 83.2959 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -765,7 +869,7 @@
 	)
 	(global_label "TAP12"
 		(shape input)
-		(at 36.83 175.26 180)
+		(at 90.17 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -775,7 +879,7 @@
 		)
 		(uuid "6593ad5c-dcdf-4337-9f21-b2af1ac14dc7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9559 175.26 0)
+			(at 83.2959 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -831,7 +935,7 @@
 	)
 	(global_label "TAP14"
 		(shape input)
-		(at 36.83 185.42 180)
+		(at 90.17 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -841,7 +945,7 @@
 		)
 		(uuid "87220cda-a8cb-423a-a921-539502fed940")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9559 185.42 0)
+			(at 83.2959 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -853,7 +957,7 @@
 	)
 	(global_label "TAP13"
 		(shape input)
-		(at 36.83 172.72 180)
+		(at 90.17 71.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -863,7 +967,7 @@
 		)
 		(uuid "87671625-5e52-45ae-8dc7-184ab3fd390c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9559 172.72 0)
+			(at 83.2959 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -919,7 +1023,7 @@
 	)
 	(global_label "TAP13"
 		(shape input)
-		(at 36.83 187.96 180)
+		(at 90.17 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -929,7 +1033,7 @@
 		)
 		(uuid "8c6cd06c-ed7f-4ab5-94b6-c18ca3c4dce4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9559 187.96 0)
+			(at 83.2959 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -963,7 +1067,7 @@
 	)
 	(global_label "TAP10"
 		(shape input)
-		(at 36.83 149.86 180)
+		(at 90.17 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -973,7 +1077,7 @@
 		)
 		(uuid "a3090e40-30b0-41f5-a24b-e5bb7cf6ee88")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9559 149.86 0)
+			(at 83.2959 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -985,7 +1089,7 @@
 	)
 	(global_label "TAP11"
 		(shape input)
-		(at 36.83 162.56 180)
+		(at 90.17 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -995,7 +1099,7 @@
 		)
 		(uuid "c0120f83-932a-4569-a9f0-e2c33df8c53c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9559 162.56 0)
+			(at 83.2959 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1029,7 +1133,7 @@
 	)
 	(global_label "TAP9"
 		(shape input)
-		(at 36.83 137.16 180)
+		(at 90.17 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1039,7 +1143,7 @@
 		)
 		(uuid "c322dd58-6711-48fc-acec-dd2650616c5f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.9083 137.16 0)
+			(at 84.2483 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1051,7 +1155,7 @@
 	)
 	(global_label "TAP9"
 		(shape input)
-		(at 36.83 121.92 180)
+		(at 90.17 20.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1061,7 +1165,51 @@
 		)
 		(uuid "ca73242d-0e1e-4294-b867-dedc1948b788")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.9083 121.92 0)
+			(at 84.2483 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TAP14"
+		(shape input)
+		(at 90.17 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "d5023ef1-57e0-4216-abf1-6f361df03ef6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 83.2959 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TAP16"
+		(shape input)
+		(at 90.17 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "e18edff6-a2df-4177-90e8-2f6d7b7cfc6e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 83.2959 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1117,7 +1265,7 @@
 	)
 	(global_label "TAP11"
 		(shape input)
-		(at 36.83 147.32 180)
+		(at 90.17 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1127,7 +1275,7 @@
 		)
 		(uuid "fe6e2c64-6611-4bb5-bc77-e64d95fd507f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9559 147.32 0)
+			(at 83.2959 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1161,7 +1309,7 @@
 	)
 	(hierarchical_label "BA12"
 		(shape input)
-		(at 55.88 162.56 0)
+		(at 109.22 60.96 0)
 		(effects
 			(font
 				(size 1 1)
@@ -1183,7 +1331,7 @@
 	)
 	(hierarchical_label "BA11"
 		(shape input)
-		(at 55.88 149.86 0)
+		(at 109.22 48.26 0)
 		(effects
 			(font
 				(size 1 1)
@@ -1216,7 +1364,7 @@
 	)
 	(hierarchical_label "BA13"
 		(shape input)
-		(at 55.88 175.26 0)
+		(at 109.22 73.66 0)
 		(effects
 			(font
 				(size 1 1)
@@ -1227,7 +1375,7 @@
 	)
 	(hierarchical_label "BA10"
 		(shape input)
-		(at 55.88 137.16 0)
+		(at 109.22 35.56 0)
 		(effects
 			(font
 				(size 1 1)
@@ -1238,7 +1386,7 @@
 	)
 	(hierarchical_label "BA9"
 		(shape input)
-		(at 55.88 124.46 0)
+		(at 109.22 22.86 0)
 		(effects
 			(font
 				(size 1 1)
@@ -1246,6 +1394,17 @@
 			(justify left)
 		)
 		(uuid "8488b141-ae11-4104-a6f2-04151d738b27")
+	)
+	(hierarchical_label "BA16"
+		(shape input)
+		(at 109.22 111.76 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left)
+		)
+		(uuid "94131a83-bd54-4c5c-b3cc-b58a7f84ab47")
 	)
 	(hierarchical_label "BA3"
 		(shape input)
@@ -1269,6 +1428,17 @@
 		)
 		(uuid "9e6dc445-88dd-4cdf-8c44-b599489d0859")
 	)
+	(hierarchical_label "BA15"
+		(shape input)
+		(at 109.22 99.06 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left)
+		)
+		(uuid "9e9aebd1-a107-4693-95bb-d2da9e774983")
+	)
 	(hierarchical_label "BA2"
 		(shape input)
 		(at 55.88 35.56 0)
@@ -1282,7 +1452,7 @@
 	)
 	(hierarchical_label "BA14"
 		(shape input)
-		(at 55.88 187.96 0)
+		(at 109.22 86.36 0)
 		(effects
 			(font
 				(size 1 1)
@@ -1301,7 +1471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92768880-01b1-428e-8c7b-a374067891cb")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR054"
 			(at 35.56 30.48 0)
 			(effects
 				(font
@@ -1352,7 +1522,7 @@
 		(instances
 			(project "bms"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(reference "#PWR055")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -1425,13 +1595,13 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "4")
+					(page "5")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 38.1 120.65)
+		(at 91.44 19.05)
 		(size 16.51 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1447,7 +1617,7 @@
 		)
 		(uuid "1868e0df-f8a0-46bd-9798-d286e5ba1ced")
 		(property "Sheetname" "Cell 9"
-			(at 38.1 119.9384 0)
+			(at 91.44 18.3384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1456,7 +1626,7 @@
 			)
 		)
 		(property "Sheetfile" "balance.kicad_sch"
-			(at 38.1 126.3146 0)
+			(at 91.44 24.7146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1465,7 +1635,7 @@
 			)
 		)
 		(pin "TAPn" input
-			(at 38.1 121.92 180)
+			(at 91.44 20.32 180)
 			(uuid "cf44a726-067b-43e1-870e-a83ece7798b9")
 			(effects
 				(font
@@ -1475,7 +1645,7 @@
 			)
 		)
 		(pin "TAPn-1" input
-			(at 38.1 124.46 180)
+			(at 91.44 22.86 180)
 			(uuid "0d6f18a9-cc8c-4bf7-9fa8-874b33fe810c")
 			(effects
 				(font
@@ -1485,7 +1655,7 @@
 			)
 		)
 		(pin "BAn" input
-			(at 54.61 124.46 0)
+			(at 107.95 22.86 0)
 			(uuid "f0cdb686-efd4-4730-a6b1-5a30a8d6b4a5")
 			(effects
 				(font
@@ -1497,7 +1667,7 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "12")
+					(page "13")
 				)
 			)
 		)
@@ -1569,7 +1739,7 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "8")
+					(page "9")
 				)
 			)
 		)
@@ -1641,13 +1811,13 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "11")
+					(page "12")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 38.1 146.05)
+		(at 91.44 44.45)
 		(size 16.51 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1663,7 +1833,7 @@
 		)
 		(uuid "558077c3-2e79-4c16-bf32-75cbb22e7b66")
 		(property "Sheetname" "Cell 11"
-			(at 38.1 145.3384 0)
+			(at 91.44 43.7384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1672,7 +1842,7 @@
 			)
 		)
 		(property "Sheetfile" "balance.kicad_sch"
-			(at 38.1 151.7146 0)
+			(at 91.44 50.1146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1681,7 +1851,7 @@
 			)
 		)
 		(pin "TAPn" input
-			(at 38.1 147.32 180)
+			(at 91.44 45.72 180)
 			(uuid "f6699c96-c9a1-4ddd-8e15-a847022cf385")
 			(effects
 				(font
@@ -1691,7 +1861,7 @@
 			)
 		)
 		(pin "TAPn-1" input
-			(at 38.1 149.86 180)
+			(at 91.44 48.26 180)
 			(uuid "f3e47c1d-4de2-4a2c-a984-728d0cf7b298")
 			(effects
 				(font
@@ -1701,8 +1871,80 @@
 			)
 		)
 		(pin "BAn" input
-			(at 54.61 149.86 0)
+			(at 107.95 48.26 0)
 			(uuid "39b0b949-24da-4320-9eaa-2dfecc887289")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "bms_segment"
+				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 31.75)
+		(size 16.51 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5bcaf29d-feaf-497c-b526-6322a79bf7a6")
+		(property "Sheetname" "Cell 10"
+			(at 91.44 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "balance.kicad_sch"
+			(at 91.44 37.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TAPn" input
+			(at 91.44 33.02 180)
+			(uuid "2d90f66f-9941-4d03-a8da-55cb8d235c15")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TAPn-1" input
+			(at 91.44 35.56 180)
+			(uuid "5ed28ab7-5e3e-4a36-842a-13f042bf2e09")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BAn" input
+			(at 107.95 35.56 0)
+			(uuid "3937fe4d-5e2f-4805-b47e-7174429aee09")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1719,79 +1961,7 @@
 		)
 	)
 	(sheet
-		(at 38.1 133.35)
-		(size 16.51 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "5bcaf29d-feaf-497c-b526-6322a79bf7a6")
-		(property "Sheetname" "Cell 10"
-			(at 38.1 132.6384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "balance.kicad_sch"
-			(at 38.1 139.0146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "TAPn" input
-			(at 38.1 134.62 180)
-			(uuid "2d90f66f-9941-4d03-a8da-55cb8d235c15")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "TAPn-1" input
-			(at 38.1 137.16 180)
-			(uuid "5ed28ab7-5e3e-4a36-842a-13f042bf2e09")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "BAn" input
-			(at 54.61 137.16 0)
-			(uuid "3937fe4d-5e2f-4805-b47e-7174429aee09")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "bms_segment"
-				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "13")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 38.1 171.45)
+		(at 91.44 69.85)
 		(size 16.51 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1807,7 +1977,7 @@
 		)
 		(uuid "5e7620f7-f0af-4745-ab5e-3fc5a156dd58")
 		(property "Sheetname" "Cell 13"
-			(at 38.1 170.7384 0)
+			(at 91.44 69.1384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1816,7 +1986,7 @@
 			)
 		)
 		(property "Sheetfile" "balance.kicad_sch"
-			(at 38.1 177.1146 0)
+			(at 91.44 75.5146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1825,7 +1995,7 @@
 			)
 		)
 		(pin "TAPn" input
-			(at 38.1 172.72 180)
+			(at 91.44 71.12 180)
 			(uuid "d5d25949-4a0a-44e2-aa13-dac45efd5b7d")
 			(effects
 				(font
@@ -1835,7 +2005,7 @@
 			)
 		)
 		(pin "TAPn-1" input
-			(at 38.1 175.26 180)
+			(at 91.44 73.66 180)
 			(uuid "76fd3a2a-031e-436f-bca6-25aa9292f84e")
 			(effects
 				(font
@@ -1845,7 +2015,7 @@
 			)
 		)
 		(pin "BAn" input
-			(at 54.61 175.26 0)
+			(at 107.95 73.66 0)
 			(uuid "dec86493-b116-4356-9316-e8163c78aad0")
 			(effects
 				(font
@@ -1857,13 +2027,85 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "16")
+					(page "17")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 38.1 184.15)
+		(at 91.44 107.95)
+		(size 16.51 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8782f8eb-ed65-45b1-bf95-5d3be5b8ad2a")
+		(property "Sheetname" "Cell 16"
+			(at 91.44 107.2384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "balance.kicad_sch"
+			(at 91.44 113.6146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TAPn" input
+			(at 91.44 109.22 180)
+			(uuid "2f25cc3e-5315-4010-b881-08e227352d99")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TAPn-1" input
+			(at 91.44 111.76 180)
+			(uuid "f32a48ac-0358-464f-ae15-42144300cac8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BAn" input
+			(at 107.95 111.76 0)
+			(uuid "10ce43f1-288e-4992-9d41-005dcf80b840")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "bms_segment"
+				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 82.55)
 		(size 16.51 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1879,7 +2121,7 @@
 		)
 		(uuid "8b728bd1-7ef5-48d2-bc52-73fbb8d0723f")
 		(property "Sheetname" "Cell 14"
-			(at 38.1 183.4384 0)
+			(at 91.44 81.8384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1888,7 +2130,7 @@
 			)
 		)
 		(property "Sheetfile" "balance.kicad_sch"
-			(at 38.1 189.8146 0)
+			(at 91.44 88.2146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1897,7 +2139,7 @@
 			)
 		)
 		(pin "TAPn" input
-			(at 38.1 185.42 180)
+			(at 91.44 83.82 180)
 			(uuid "32a1a933-ffae-4885-87fd-8c485ffea098")
 			(effects
 				(font
@@ -1907,7 +2149,7 @@
 			)
 		)
 		(pin "TAPn-1" input
-			(at 38.1 187.96 180)
+			(at 91.44 86.36 180)
 			(uuid "14d1e169-5721-4e48-9f45-66ca2b5266d1")
 			(effects
 				(font
@@ -1917,7 +2159,7 @@
 			)
 		)
 		(pin "BAn" input
-			(at 54.61 187.96 0)
+			(at 107.95 86.36 0)
 			(uuid "d2a695d0-61f5-4782-8d24-fa8264a36a57")
 			(effects
 				(font
@@ -1929,7 +2171,7 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "17")
+					(page "18")
 				)
 			)
 		)
@@ -2001,7 +2243,79 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "5")
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 95.25)
+		(size 16.51 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "99d124be-48e9-4488-ad20-ea5a08d5bdf7")
+		(property "Sheetname" "Cell 15"
+			(at 91.44 94.5384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "balance.kicad_sch"
+			(at 91.44 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TAPn" input
+			(at 91.44 96.52 180)
+			(uuid "c44dc13f-34fd-47ab-b351-6a120849fd3c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TAPn-1" input
+			(at 91.44 99.06 180)
+			(uuid "545a6dfd-c099-40e1-90ec-62f1c724fee9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BAn" input
+			(at 107.95 99.06 0)
+			(uuid "1478056d-d9e4-4a3b-972b-1100a7a7f683")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "bms_segment"
+				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
+					(page "19")
 				)
 			)
 		)
@@ -2073,13 +2387,13 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "6")
+					(page "7")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 38.1 158.75)
+		(at 91.44 57.15)
 		(size 16.51 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2095,7 +2409,7 @@
 		)
 		(uuid "ae51574f-61f5-40a8-84a4-f02d08755389")
 		(property "Sheetname" "Cell 12"
-			(at 38.1 158.0384 0)
+			(at 91.44 56.4384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2104,7 +2418,7 @@
 			)
 		)
 		(property "Sheetfile" "balance.kicad_sch"
-			(at 38.1 164.4146 0)
+			(at 91.44 62.8146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2113,7 +2427,7 @@
 			)
 		)
 		(pin "TAPn" input
-			(at 38.1 160.02 180)
+			(at 91.44 58.42 180)
 			(uuid "a7a336c2-e60c-42d4-a5d9-c1cd7dab5816")
 			(effects
 				(font
@@ -2123,7 +2437,7 @@
 			)
 		)
 		(pin "TAPn-1" input
-			(at 38.1 162.56 180)
+			(at 91.44 60.96 180)
 			(uuid "4f881247-0ecd-41ef-b7e4-ee3211d06ecc")
 			(effects
 				(font
@@ -2133,7 +2447,7 @@
 			)
 		)
 		(pin "BAn" input
-			(at 54.61 162.56 0)
+			(at 107.95 60.96 0)
 			(uuid "1aa67faf-48ef-4eb4-877b-94f50949f380")
 			(effects
 				(font
@@ -2145,7 +2459,7 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "15")
+					(page "16")
 				)
 			)
 		)
@@ -2217,7 +2531,7 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "9")
+					(page "10")
 				)
 			)
 		)
@@ -2289,7 +2603,7 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "7")
+					(page "8")
 				)
 			)
 		)
@@ -2361,7 +2675,7 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(page "10")
+					(page "11")
 				)
 			)
 		)
