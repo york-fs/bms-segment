@@ -139,7 +139,7 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.15,
-        "min_via_diameter": 0.5,
+        "min_via_diameter": 0.7,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -227,16 +227,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.6,
-          "drill": 0.3
-        },
-        {
           "diameter": 0.7,
           "drill": 0.3
-        },
-        {
-          "diameter": 0.8,
-          "drill": 0.4
         }
       ],
       "zones_allow_external_fillets": false
@@ -514,7 +506,6 @@
         "bus_width": 12,
         "clearance": 0.15,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
@@ -532,7 +523,6 @@
         "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
@@ -550,7 +540,6 @@
         "bus_width": 12,
         "clearance": 0.15,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
@@ -568,7 +557,6 @@
         "bus_width": 12,
         "clearance": 0.15,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
@@ -586,7 +574,6 @@
         "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
