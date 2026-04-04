@@ -1471,7 +1471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92768880-01b1-428e-8c7b-a374067891cb")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR0146"
 			(at 35.56 30.48 0)
 			(effects
 				(font
@@ -1522,7 +1522,7 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0"
-					(reference "#PWR054")
+					(reference "#PWR0146")
 					(unit 1)
 				)
 			)
