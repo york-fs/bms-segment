@@ -2719,14 +2719,15 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x10_Odd_Even")
-		(at 66.04 100.33 0)
+		(at 68.58 100.33 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d25cae01-09c9-4afe-8c3a-cceba51035ce")
-		(property "Reference" "J5"
+		(property "Reference" "J3"
 			(at 67.31 87.63 0)
 			(effects
 				(font
@@ -2744,7 +2745,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PUD_S20B-PUDSS-1_2x10_P2.00mm_Horizontal"
-			(at 66.04 100.33 0)
+			(at 68.58 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2753,7 +2754,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 100.33 0)
+			(at 68.58 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2762,7 +2763,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 66.04 100.33 0)
+			(at 68.58 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2771,7 +2772,7 @@
 			)
 		)
 		(property "Dist #" "C495200"
-			(at 66.04 100.33 0)
+			(at 68.58 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2780,7 +2781,7 @@
 			)
 		)
 		(property "Mfr" "JST"
-			(at 66.04 100.33 0)
+			(at 68.58 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2789,7 +2790,7 @@
 			)
 		)
 		(property "Mfr #" "S20B-PUDSS-1(LF)(SN)"
-			(at 66.04 100.33 0)
+			(at 68.58 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2798,7 +2799,7 @@
 			)
 		)
 		(property "Dist" "LCSC"
-			(at 66.04 100.33 0)
+			(at 68.58 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2869,7 +2870,7 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/8e615871-66d5-4c39-bd5b-a90cbe433475/7307489e-20ac-44bd-af31-63baacb8067c"
-					(reference "J5")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -2877,14 +2878,15 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x10_Odd_Even")
-		(at 66.04 130.81 0)
+		(at 68.58 130.81 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f5a31d37-22db-4c3d-80cf-49d75107b093")
-		(property "Reference" "J6"
+		(property "Reference" "J4"
 			(at 67.31 118.11 0)
 			(effects
 				(font
@@ -2902,7 +2904,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PUD_S20B-PUDSS-1_2x10_P2.00mm_Horizontal"
-			(at 66.04 130.81 0)
+			(at 68.58 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2911,7 +2913,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 130.81 0)
+			(at 68.58 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2920,7 +2922,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 66.04 130.81 0)
+			(at 68.58 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2929,7 +2931,7 @@
 			)
 		)
 		(property "Dist #" "C495200"
-			(at 66.04 130.81 0)
+			(at 68.58 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2938,7 +2940,7 @@
 			)
 		)
 		(property "Mfr" "JST"
-			(at 66.04 130.81 0)
+			(at 68.58 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2947,7 +2949,7 @@
 			)
 		)
 		(property "Mfr #" "S20B-PUDSS-1(LF)(SN)"
-			(at 66.04 130.81 0)
+			(at 68.58 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2956,7 +2958,7 @@
 			)
 		)
 		(property "Dist" "LCSC"
-			(at 66.04 130.81 0)
+			(at 68.58 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3027,7 +3029,7 @@
 		(instances
 			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/8e615871-66d5-4c39-bd5b-a90cbe433475/7307489e-20ac-44bd-af31-63baacb8067c"
-					(reference "J6")
+					(reference "J4")
 					(unit 1)
 				)
 			)

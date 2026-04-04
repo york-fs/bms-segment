@@ -1005,7 +1005,7 @@
 			(uuid "320a1143-5598-49a6-b6b9-0c60d426e8cf")
 		)
 		(instances
-			(project ""
+			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0/061afbf0-38a7-4aad-9e58-d0f3974685d1"
 					(reference "R32")
 					(unit 1)
@@ -1170,7 +1170,7 @@
 			(uuid "cbab9537-4789-4e14-9de2-f4cf89abe539")
 		)
 		(instances
-			(project ""
+			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0/061afbf0-38a7-4aad-9e58-d0f3974685d1"
 					(reference "R34")
 					(unit 1)
@@ -1335,7 +1335,7 @@
 			(uuid "20b6b8fc-a88a-4c9c-a969-b77a734bf088")
 		)
 		(instances
-			(project ""
+			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0/061afbf0-38a7-4aad-9e58-d0f3974685d1"
 					(reference "R33")
 					(unit 1)
@@ -1519,7 +1519,7 @@
 			(uuid "3cc95a53-f11a-4841-aaad-e0416f9f93e5")
 		)
 		(instances
-			(project ""
+			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0/061afbf0-38a7-4aad-9e58-d0f3974685d1"
 					(reference "D5")
 					(unit 1)
@@ -1690,7 +1690,7 @@
 			(uuid "fa13e87d-afa9-4f98-8037-dc1c78430e44")
 		)
 		(instances
-			(project ""
+			(project "bms_segment"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7/28948f48-ac92-4ccf-aa29-40bfebbeebe0/061afbf0-38a7-4aad-9e58-d0f3974685d1"
 					(reference "Q2")
 					(unit 1)
