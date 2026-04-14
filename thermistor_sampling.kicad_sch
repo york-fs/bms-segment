@@ -5316,7 +5316,7 @@
 			)
 		)
 		(pin "TH1" output
-			(at 135.89 57.15 0)
+			(at 135.89 62.23 0)
 			(uuid "14281e0a-557a-4d78-a9ee-efe7838832f3")
 			(effects
 				(font
@@ -5336,7 +5336,7 @@
 			)
 		)
 		(pin "TH3" output
-			(at 135.89 62.23 0)
+			(at 135.89 57.15 0)
 			(uuid "04224c89-6fc1-446e-8aef-eb9eeeb92375")
 			(effects
 				(font
@@ -5356,7 +5356,7 @@
 			)
 		)
 		(pin "TH5" output
-			(at 135.89 67.31 0)
+			(at 135.89 74.93 0)
 			(uuid "6930a00a-a91e-47a6-b264-385173947a93")
 			(effects
 				(font
@@ -5376,7 +5376,7 @@
 			)
 		)
 		(pin "TH7" output
-			(at 135.89 72.39 0)
+			(at 135.89 67.31 0)
 			(uuid "291884ef-281c-4100-b6bc-cfa64d0306b5")
 			(effects
 				(font
@@ -5386,7 +5386,7 @@
 			)
 		)
 		(pin "TH8" output
-			(at 135.89 74.93 0)
+			(at 135.89 72.39 0)
 			(uuid "42e722a1-f124-4af1-bb3f-8ba98fd10ccb")
 			(effects
 				(font
@@ -5396,7 +5396,7 @@
 			)
 		)
 		(pin "TH9" output
-			(at 135.89 88.9 0)
+			(at 135.89 106.68 0)
 			(uuid "707605f2-aeca-4bfa-9139-29f4db413ab8")
 			(effects
 				(font
@@ -5406,7 +5406,7 @@
 			)
 		)
 		(pin "TH10" output
-			(at 135.89 91.44 0)
+			(at 135.89 101.6 0)
 			(uuid "a241ffe2-85f5-44c0-805c-bdace7514aff")
 			(effects
 				(font
@@ -5426,7 +5426,7 @@
 			)
 		)
 		(pin "TH12" output
-			(at 135.89 96.52 0)
+			(at 135.89 99.06 0)
 			(uuid "56175c9c-ae4b-4dfc-9c03-87b8f5d55689")
 			(effects
 				(font
@@ -5436,7 +5436,7 @@
 			)
 		)
 		(pin "TH13" output
-			(at 135.89 99.06 0)
+			(at 135.89 96.52 0)
 			(uuid "f708df87-991f-4fef-89f0-58f1fe2c260a")
 			(effects
 				(font
@@ -5446,7 +5446,7 @@
 			)
 		)
 		(pin "TH14" output
-			(at 135.89 101.6 0)
+			(at 135.89 88.9 0)
 			(uuid "91e77f1c-a21d-42cd-8565-b18d5f4303b9")
 			(effects
 				(font
@@ -5466,7 +5466,7 @@
 			)
 		)
 		(pin "TH16" output
-			(at 135.89 106.68 0)
+			(at 135.89 91.44 0)
 			(uuid "050e3e93-d9eb-4dfe-9ad3-d9fdeb70b392")
 			(effects
 				(font
@@ -5476,7 +5476,7 @@
 			)
 		)
 		(pin "TH17" output
-			(at 135.89 120.65 0)
+			(at 135.89 133.35 0)
 			(uuid "219ddb6b-66c8-4dfe-bff6-6f487da5310a")
 			(effects
 				(font
@@ -5486,7 +5486,7 @@
 			)
 		)
 		(pin "TH18" output
-			(at 135.89 123.19 0)
+			(at 135.89 138.43 0)
 			(uuid "4d816c4c-6e7e-4560-81b4-d4e8735af581")
 			(effects
 				(font
@@ -5496,7 +5496,7 @@
 			)
 		)
 		(pin "TH19" output
-			(at 135.89 125.73 0)
+			(at 135.89 130.81 0)
 			(uuid "dc33462b-3d46-4822-827e-d86a097a5c40")
 			(effects
 				(font
@@ -5506,7 +5506,7 @@
 			)
 		)
 		(pin "TH20" output
-			(at 135.89 128.27 0)
+			(at 135.89 135.89 0)
 			(uuid "49e5c367-3955-4f2a-a5be-1587e4b06a4d")
 			(effects
 				(font
@@ -5516,7 +5516,7 @@
 			)
 		)
 		(pin "TH21" output
-			(at 135.89 130.81 0)
+			(at 135.89 128.27 0)
 			(uuid "f3954ef3-e7b6-46ba-937e-a9a46f876f9f")
 			(effects
 				(font
@@ -5526,7 +5526,7 @@
 			)
 		)
 		(pin "TH22" output
-			(at 135.89 133.35 0)
+			(at 135.89 120.65 0)
 			(uuid "672cc426-82bc-4c03-bb91-1f7d5ed3ee03")
 			(effects
 				(font
@@ -5536,7 +5536,7 @@
 			)
 		)
 		(pin "TH23" output
-			(at 135.89 135.89 0)
+			(at 135.89 123.19 0)
 			(uuid "109bd5e8-136a-4c3e-9d5e-a6231142f254")
 			(effects
 				(font
@@ -5546,7 +5546,7 @@
 			)
 		)
 		(pin "TH24" output
-			(at 135.89 138.43 0)
+			(at 135.89 125.73 0)
 			(uuid "07c120df-7d35-438f-846a-0f640c951fbb")
 			(effects
 				(font

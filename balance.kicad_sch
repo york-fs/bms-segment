@@ -990,10 +990,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "bd8ef6e1-800c-4e02-9dc3-44f4c0e7351b")
+			(uuid "d34208ee-9a7c-412f-b28c-3185b6e3e0af")
 		)
 		(pin "2"
-			(uuid "cbab9537-4789-4e14-9de2-f4cf89abe539")
+			(uuid "f90a4d34-5e26-4a10-a46a-92195f3f8698")
 		)
 		(instances
 			(project "bms_segment"
@@ -1155,10 +1155,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "32f28e61-ec29-4fc4-ab89-5d64e7b1279b")
+			(uuid "589d37e2-a04c-436f-af6c-87b4bf7500d3")
 		)
 		(pin "2"
-			(uuid "20b6b8fc-a88a-4c9c-a969-b77a734bf088")
+			(uuid "f8b69088-fe34-4357-b62d-f0311b7ebb56")
 		)
 		(instances
 			(project "bms_segment"
@@ -1339,10 +1339,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e682a3b4-0237-4bbf-b265-5a657e630d1c")
+			(uuid "4d9f64de-c45a-4d1d-8e53-121be13c13ee")
 		)
 		(pin "1"
-			(uuid "3cc95a53-f11a-4841-aaad-e0416f9f93e5")
+			(uuid "d846f9ef-f60c-41c2-a9b2-c2a7776a4d7b")
 		)
 		(instances
 			(project "bms_segment"
@@ -1507,13 +1507,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "58bb694a-6631-4323-8d15-891081464490")
+			(uuid "7c45ae5a-c219-48c8-a843-6d373d015597")
 		)
 		(pin "2"
-			(uuid "6c3571ad-4d94-4689-ac7b-59d4eee23f5a")
+			(uuid "0c900115-9d0b-4e9d-876f-f1968ce88909")
 		)
 		(pin "3"
-			(uuid "fa13e87d-afa9-4f98-8037-dc1c78430e44")
+			(uuid "5044dc3b-5676-405a-b396-3a96449991f6")
 		)
 		(instances
 			(project "bms_segment"

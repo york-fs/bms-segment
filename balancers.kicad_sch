@@ -1517,7 +1517,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "14321f5a-e5d7-49c3-bfad-b97aca6e9313")
+			(uuid "9938b417-62ef-4e8d-b788-69faabd2107a")
 		)
 		(instances
 			(project "bms_segment"
@@ -1564,7 +1564,7 @@
 		)
 		(pin "TAPn" input
 			(at 38.1 20.32 180)
-			(uuid "66ebc3a1-3520-41c8-9b19-7f66bf777c0b")
+			(uuid "0758df99-950b-40f8-8960-da67629942f0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1574,7 +1574,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 38.1 22.86 180)
-			(uuid "04282c51-57e6-4c67-855d-ff409cb1ee5f")
+			(uuid "7d38188b-0109-402b-ac70-78704d8cb7a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1584,7 +1584,7 @@
 		)
 		(pin "BAn" input
 			(at 54.61 22.86 0)
-			(uuid "6b1b4c7d-8a6b-4fc7-b8c4-0702213470d7")
+			(uuid "16c3e7a6-8746-4964-97ff-78dd0294dcaa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1636,7 +1636,7 @@
 		)
 		(pin "TAPn" input
 			(at 91.44 20.32 180)
-			(uuid "cf44a726-067b-43e1-870e-a83ece7798b9")
+			(uuid "30356209-f2c8-4018-8a93-46aff2434fe4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1646,7 +1646,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 91.44 22.86 180)
-			(uuid "0d6f18a9-cc8c-4bf7-9fa8-874b33fe810c")
+			(uuid "60d789c4-a2e1-4e9d-982f-9cd58300b029")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1656,7 +1656,7 @@
 		)
 		(pin "BAn" input
 			(at 107.95 22.86 0)
-			(uuid "f0cdb686-efd4-4730-a6b1-5a30a8d6b4a5")
+			(uuid "2071ea91-60d0-4a85-b330-cfc8c4ee355d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1708,7 +1708,7 @@
 		)
 		(pin "TAPn" input
 			(at 38.1 71.12 180)
-			(uuid "a56ba208-03ee-4e5a-8bfb-d47033977a77")
+			(uuid "83b2c833-bdb0-4eaf-aea2-32b3440af303")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1718,7 +1718,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 38.1 73.66 180)
-			(uuid "14598228-8f3c-4046-93fe-f00ff5ddd285")
+			(uuid "32ddba99-6fef-4a79-a3e6-58b75557e757")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1728,7 +1728,7 @@
 		)
 		(pin "BAn" input
 			(at 54.61 73.66 0)
-			(uuid "9eac47e2-37e7-439f-9c27-4b2c0f1062d2")
+			(uuid "ee644cdf-02e0-4fe8-96a5-2031991da674")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1780,7 +1780,7 @@
 		)
 		(pin "TAPn" input
 			(at 38.1 109.22 180)
-			(uuid "a7712ec7-3e40-4456-a007-8a44eecd7dbd")
+			(uuid "a01aa657-ca2e-42ff-9722-50a3cd529178")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1790,7 +1790,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 38.1 111.76 180)
-			(uuid "adc864b1-299c-4d8f-96b2-f601a70440b4")
+			(uuid "bf503ed7-7410-4e73-9691-9da3ed34429c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1800,7 +1800,7 @@
 		)
 		(pin "BAn" input
 			(at 54.61 111.76 0)
-			(uuid "5436a0d3-9b32-4abf-8134-86a9ad2d02f0")
+			(uuid "121d1427-5d8e-4cd4-bc2a-29b7e2785689")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1852,7 +1852,7 @@
 		)
 		(pin "TAPn" input
 			(at 91.44 45.72 180)
-			(uuid "f6699c96-c9a1-4ddd-8e15-a847022cf385")
+			(uuid "bdb3efea-a4c8-46cb-8bc7-20be7e2fa120")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1862,7 +1862,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 91.44 48.26 180)
-			(uuid "f3e47c1d-4de2-4a2c-a984-728d0cf7b298")
+			(uuid "a884ee0d-e48f-49a6-955b-420c4f3980bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1872,7 +1872,7 @@
 		)
 		(pin "BAn" input
 			(at 107.95 48.26 0)
-			(uuid "39b0b949-24da-4320-9eaa-2dfecc887289")
+			(uuid "6ec7e7d7-8561-46d7-8dd9-ec204650029b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1924,7 +1924,7 @@
 		)
 		(pin "TAPn" input
 			(at 91.44 33.02 180)
-			(uuid "2d90f66f-9941-4d03-a8da-55cb8d235c15")
+			(uuid "72bf0a2e-dcaa-4bf5-843b-1b5f9fe75f0a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1934,7 +1934,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 91.44 35.56 180)
-			(uuid "5ed28ab7-5e3e-4a36-842a-13f042bf2e09")
+			(uuid "a9e15ea6-54fc-4485-a39a-2a2cda628fe7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1944,7 +1944,7 @@
 		)
 		(pin "BAn" input
 			(at 107.95 35.56 0)
-			(uuid "3937fe4d-5e2f-4805-b47e-7174429aee09")
+			(uuid "1ecdbb04-4b36-4f9e-aa7a-6e6729f3a4df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1996,7 +1996,7 @@
 		)
 		(pin "TAPn" input
 			(at 91.44 71.12 180)
-			(uuid "d5d25949-4a0a-44e2-aa13-dac45efd5b7d")
+			(uuid "6069a81a-9990-459c-8ca8-f34de99002c2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2006,7 +2006,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 91.44 73.66 180)
-			(uuid "76fd3a2a-031e-436f-bca6-25aa9292f84e")
+			(uuid "44ec8fb5-7c92-4409-a7d2-ee419bf1c7a3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2016,7 +2016,7 @@
 		)
 		(pin "BAn" input
 			(at 107.95 73.66 0)
-			(uuid "dec86493-b116-4356-9316-e8163c78aad0")
+			(uuid "40ddbdac-d7da-49e7-9142-941e180f43ab")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2068,7 +2068,7 @@
 		)
 		(pin "TAPn" input
 			(at 91.44 109.22 180)
-			(uuid "2f25cc3e-5315-4010-b881-08e227352d99")
+			(uuid "3a6523ee-931b-471e-9d23-ec1c8b9f7f12")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2078,7 +2078,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 91.44 111.76 180)
-			(uuid "f32a48ac-0358-464f-ae15-42144300cac8")
+			(uuid "a1eb105d-b10a-4ea5-b3a2-6d528c82835f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2088,7 +2088,7 @@
 		)
 		(pin "BAn" input
 			(at 107.95 111.76 0)
-			(uuid "10ce43f1-288e-4992-9d41-005dcf80b840")
+			(uuid "9e49dc02-2819-4bc8-8b3d-81a244146c0b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2140,7 +2140,7 @@
 		)
 		(pin "TAPn" input
 			(at 91.44 83.82 180)
-			(uuid "32a1a933-ffae-4885-87fd-8c485ffea098")
+			(uuid "9b642934-dc64-4f3a-8943-b48d9a5b471d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2150,7 +2150,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 91.44 86.36 180)
-			(uuid "14d1e169-5721-4e48-9f45-66ca2b5266d1")
+			(uuid "9ef4bca1-b429-41fa-be7c-34a30c075d80")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2160,7 +2160,7 @@
 		)
 		(pin "BAn" input
 			(at 107.95 86.36 0)
-			(uuid "d2a695d0-61f5-4782-8d24-fa8264a36a57")
+			(uuid "5bd3f348-d96e-4e7e-93aa-6ec53b01d639")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2212,7 +2212,7 @@
 		)
 		(pin "TAPn" input
 			(at 38.1 33.02 180)
-			(uuid "b7176a69-b3f3-4c53-80f8-59c41ec94e9b")
+			(uuid "69b1706a-236b-4662-8519-a6cade7c6c1a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2222,7 +2222,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 38.1 35.56 180)
-			(uuid "496ab0cf-e9cd-4bf3-95c7-0bdc7bfdbb2e")
+			(uuid "74ded0d4-e953-41e1-9a21-34ca9d0d2b1d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2232,7 +2232,7 @@
 		)
 		(pin "BAn" input
 			(at 54.61 35.56 0)
-			(uuid "b86a561d-f585-4260-96b6-f3eb8447926a")
+			(uuid "a0cb0ad5-89c9-403f-b5ff-c5160061cc9d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2284,7 +2284,7 @@
 		)
 		(pin "TAPn" input
 			(at 91.44 96.52 180)
-			(uuid "c44dc13f-34fd-47ab-b351-6a120849fd3c")
+			(uuid "af9e8a1f-a3a0-48d6-908e-706d8f3db0e0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2294,7 +2294,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 91.44 99.06 180)
-			(uuid "545a6dfd-c099-40e1-90ec-62f1c724fee9")
+			(uuid "f516e3cc-45b3-4867-ae76-51f87f905dc7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2304,7 +2304,7 @@
 		)
 		(pin "BAn" input
 			(at 107.95 99.06 0)
-			(uuid "1478056d-d9e4-4a3b-972b-1100a7a7f683")
+			(uuid "bb1180e9-1c91-4321-874c-ecb1c6996ed6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2356,7 +2356,7 @@
 		)
 		(pin "TAPn" input
 			(at 38.1 45.72 180)
-			(uuid "00c59755-c2c2-4f2d-977d-2e919939ff78")
+			(uuid "631bff54-24de-42fa-a0ed-8bbddb53e656")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2366,7 +2366,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 38.1 48.26 180)
-			(uuid "c22342a2-42ca-47e7-892a-b871578342d7")
+			(uuid "cf5fb41c-d8d9-4ff4-9da3-45bd8d870829")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2376,7 +2376,7 @@
 		)
 		(pin "BAn" input
 			(at 54.61 48.26 0)
-			(uuid "f347bf30-6115-46f8-ba0e-6bdc1fdb0c32")
+			(uuid "e7dfd8d1-d6ea-44af-97d4-be10115e27b5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2428,7 +2428,7 @@
 		)
 		(pin "TAPn" input
 			(at 91.44 58.42 180)
-			(uuid "a7a336c2-e60c-42d4-a5d9-c1cd7dab5816")
+			(uuid "f00829a0-081b-4c9f-996f-727c35f052d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2438,7 +2438,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 91.44 60.96 180)
-			(uuid "4f881247-0ecd-41ef-b7e4-ee3211d06ecc")
+			(uuid "1288625f-4dbf-4349-8ad2-ad6b6b6fb222")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2448,7 +2448,7 @@
 		)
 		(pin "BAn" input
 			(at 107.95 60.96 0)
-			(uuid "1aa67faf-48ef-4eb4-877b-94f50949f380")
+			(uuid "4fc12d9a-71ce-4973-b463-5cfb735d97c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2500,7 +2500,7 @@
 		)
 		(pin "TAPn" input
 			(at 38.1 83.82 180)
-			(uuid "689c8c16-0627-4838-ac94-7b31e512a862")
+			(uuid "55b1b1db-b613-4f5a-ad99-4850a40548d0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2510,7 +2510,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 38.1 86.36 180)
-			(uuid "18c3954b-0836-43c0-a291-3926b11bc5f1")
+			(uuid "8b9d7d1c-cce8-4b97-beef-c9757e177106")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2520,7 +2520,7 @@
 		)
 		(pin "BAn" input
 			(at 54.61 86.36 0)
-			(uuid "e4dc6b2f-de58-49fd-9068-24e907dab9ee")
+			(uuid "a57a59ff-cc6b-43dc-b0f7-aaa9a18111a9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2572,7 +2572,7 @@
 		)
 		(pin "TAPn" input
 			(at 38.1 58.42 180)
-			(uuid "b470c07b-564e-4270-bbd9-b717e3cf93d2")
+			(uuid "71564dca-34df-4243-8ea2-fdfc0bc99b87")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2582,7 +2582,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 38.1 60.96 180)
-			(uuid "51d8f519-d01a-455e-8692-4ca779ba0545")
+			(uuid "5cf502a5-fc03-49f1-af36-7779ee1bd707")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2592,7 +2592,7 @@
 		)
 		(pin "BAn" input
 			(at 54.61 60.96 0)
-			(uuid "3e08b8d1-e9cb-461a-9894-71ab9cb0899f")
+			(uuid "af1082e1-f261-45aa-b419-2f0d31039644")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2644,7 +2644,7 @@
 		)
 		(pin "TAPn" input
 			(at 38.1 96.52 180)
-			(uuid "92dd0d15-15b8-47b3-a03a-bbe311a9af72")
+			(uuid "e66555b0-cb8f-403d-b834-6b4b56b5cd74")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2654,7 +2654,7 @@
 		)
 		(pin "TAPn-1" input
 			(at 38.1 99.06 180)
-			(uuid "53e4e8d8-12c0-4f34-9e3e-f2c95587a055")
+			(uuid "4f45c72c-d8d6-4e48-b73f-fd33d4d38983")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2664,7 +2664,7 @@
 		)
 		(pin "BAn" input
 			(at 54.61 99.06 0)
-			(uuid "50e87e1d-89e5-41b9-a956-d4a6c2a8215f")
+			(uuid "27b73dc7-4975-4ef8-9486-17f74f30788a")
 			(effects
 				(font
 					(size 1.27 1.27)
