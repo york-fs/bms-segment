@@ -867,7 +867,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Pack04"
+		(property "Value" "1k"
 			(at 113.03 43.18 90)
 			(effects
 				(font

@@ -96,6 +96,14 @@
           ""
         ],
         [
+          "solder_mask_bridge|211374686|113925673|895a1c66-7d13-4f31-9a85-4e2d121ab73b|884c6051-1595-46ad-b681-88b499a19a03",
+          ""
+        ],
+        [
+          "solder_mask_bridge|215821380|113902226|052d6ee1-4f88-472f-befd-a518fa5d288f|534147fd-80bd-4de6-9656-6bb201ecbc65",
+          ""
+        ],
+        [
           "solder_mask_bridge|215821380|113902226|052d6ee1-4f88-472f-befd-a518fa5d288f|5c7c24fd-30c2-43a9-9ed3-76265158ffb1",
           ""
         ]
@@ -959,7 +967,7 @@
     ]
   ],
   "text_variables": {
-    "PCB_DATE": "MAR 2026",
+    "PCB_DATE": "APR 2026",
     "REVISION": "E"
   }
 }
