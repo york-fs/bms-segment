@@ -22,25 +22,23 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "TP6"
-				(at 2.54 4.5721 0)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Value" "GND"
-				(at 2.54 2.0321 0)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Footprint" "yfs:KEYSTONE_5019"
+			(property "Footprint" ""
 				(at 5.08 0 0)
 				(effects
 					(font
@@ -102,14 +100,14 @@
 				(pin passive line
 					(at 0 0 90)
 					(length 2.54)
-					(name "TP"
+					(name "1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "TP"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -28072,10 +28070,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d445b513-6682-4bac-a05e-c1302d46a6f9")
 		(property "Reference" "TP6"
-			(at 181.61 97.0279 0)
+			(at 177.165 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28083,16 +28080,17 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "TestPoint"
 			(at 181.61 99.5679 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "yfs:KEYSTONE_5019"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5019_Miniature"
 			(at 184.15 101.6 0)
 			(effects
 				(font
@@ -28119,7 +28117,7 @@
 				(hide yes)
 			)
 		)
-		(pin "TP"
+		(pin "1"
 			(uuid "c48dc177-4404-4aa7-916e-398f7a53992b")
 		)
 		(instances
