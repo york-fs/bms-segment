@@ -58,12 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "solder_mask_bridge|211374686|113925673|895a1c66-7d13-4f31-9a85-4e2d121ab73b|478e543d-46b6-48d3-9f62-030e6b8ec344",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },

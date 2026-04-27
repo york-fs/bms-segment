@@ -5,8 +5,8 @@
 	(uuid "ae4a7653-8e6d-4e05-b144-1e5e3b2092b7")
 	(paper "A4")
 	(title_block
-		(title "Battery Management System")
-		(date "2025-05-11")
+		(title "BMS 14s Daughter Board")
+		(date "2026-04-27")
 		(rev "${REVISION}")
 		(company "York Formula Student")
 	)
@@ -2056,6 +2056,107 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:PWR_FLAG"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(junction
 		(at 64.77 45.72)
@@ -2080,6 +2181,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5291222f-7afd-4ec4-a4cb-54eccc15eab4")
+	)
+	(junction
+		(at 149.86 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a722830-2374-4742-83be-0bdaad5ef308")
 	)
 	(junction
 		(at 64.77 86.36)
@@ -2140,12 +2247,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b4b55960-e14d-4b7e-8c4f-02b22cae6ba4")
-	)
-	(junction
-		(at 80.01 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d7f0bbb6-5795-40c2-bc34-841ab917b65a")
 	)
 	(junction
 		(at 80.01 60.96)
@@ -2507,6 +2608,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 69.85) (xy 144.78 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4908aa70-a1ea-438c-ac39-9c6a37fe48ef")
+	)
+	(wire
+		(pts
 			(xy 29.21 53.34) (xy 30.48 53.34)
 		)
 		(stroke
@@ -2624,6 +2735,16 @@
 			(type default)
 		)
 		(uuid "662ea606-943f-4bda-9ae0-ab35f7804045")
+	)
+	(wire
+		(pts
+			(xy 149.86 69.85) (xy 149.86 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66cb44dc-e1b0-4f89-9ad3-bbb15c65ff0f")
 	)
 	(wire
 		(pts
@@ -2777,16 +2898,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 50.8) (xy 81.28 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e2b27e2-69ba-4f95-b716-1d262155dbf4")
-	)
-	(wire
-		(pts
 			(xy 80.01 60.96) (xy 78.74 60.96)
 		)
 		(stroke
@@ -2847,7 +2958,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 69.85) (xy 144.78 69.85)
+			(xy 153.67 69.85) (xy 149.86 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3167,16 +3278,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 45.72) (xy 81.28 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d25f2f7e-0aaa-4417-8f0e-74040aa008a7")
-	)
-	(wire
-		(pts
 			(xy 115.57 52.07) (xy 114.3 52.07)
 		)
 		(stroke
@@ -3366,7 +3467,7 @@
 		(uuid "fcb73ba9-ad13-4b6a-88d5-a9e379abcedd")
 	)
 	(global_label "TAP6"
-		(shape output)
+		(shape passive)
 		(at 29.21 58.42 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3377,7 +3478,7 @@
 		)
 		(uuid "07967d6c-c9df-42b8-a9f9-582aa60de1a8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2883 58.42 0)
+			(at 24.1633 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3410,7 +3511,7 @@
 		)
 	)
 	(global_label "TAP4"
-		(shape output)
+		(shape passive)
 		(at 29.21 53.34 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3421,7 +3522,7 @@
 		)
 		(uuid "0d497e0a-d997-40d5-97bf-307c82b3eeab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2883 53.34 0)
+			(at 24.1633 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3475,30 +3576,8 @@
 			)
 		)
 	)
-	(global_label "TAP15"
-		(shape output)
-		(at 81.28 50.8 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left)
-		)
-		(uuid "20534aa2-f6fa-4ae0-8d92-82cd966dc75e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.1541 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "TAP9"
-		(shape output)
+		(shape input)
 		(at 81.28 81.28 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3564,7 +3643,7 @@
 		)
 	)
 	(global_label "TAP4"
-		(shape output)
+		(shape input)
 		(at 63.5 66.04 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3608,7 +3687,7 @@
 		)
 	)
 	(global_label "TAP10"
-		(shape output)
+		(shape passive)
 		(at 29.21 68.58 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3619,7 +3698,7 @@
 		)
 		(uuid "31dfdadf-4a07-48fd-94bc-6d19ffcc8f12")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.3359 68.58 0)
+			(at 23.2109 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3674,7 +3753,7 @@
 		)
 	)
 	(global_label "TAP11"
-		(shape output)
+		(shape input)
 		(at 81.28 71.12 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3696,7 +3775,7 @@
 		)
 	)
 	(global_label "TAP5"
-		(shape output)
+		(shape passive)
 		(at 29.21 55.88 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3707,7 +3786,7 @@
 		)
 		(uuid "47de822b-a6eb-4996-a266-fddd0bba0b0d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2883 55.88 0)
+			(at 24.1633 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3740,7 +3819,7 @@
 		)
 	)
 	(global_label "TAP7"
-		(shape output)
+		(shape passive)
 		(at 29.21 60.96 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3751,7 +3830,7 @@
 		)
 		(uuid "51b0834a-1b17-424c-afe0-a2657ecebce8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2883 60.96 0)
+			(at 24.1633 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3762,7 +3841,7 @@
 		)
 	)
 	(global_label "TAP2"
-		(shape output)
+		(shape input)
 		(at 63.5 55.88 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3784,7 +3863,7 @@
 		)
 	)
 	(global_label "TAP13"
-		(shape output)
+		(shape input)
 		(at 81.28 60.96 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3806,7 +3885,7 @@
 		)
 	)
 	(global_label "TAP2"
-		(shape output)
+		(shape passive)
 		(at 29.21 48.26 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3817,7 +3896,7 @@
 		)
 		(uuid "7a9c6f40-1c31-42ba-b58a-8ae07f053e1b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2883 48.26 0)
+			(at 24.1633 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3828,7 +3907,7 @@
 		)
 	)
 	(global_label "TAP10"
-		(shape output)
+		(shape input)
 		(at 81.28 76.2 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3850,7 +3929,7 @@
 		)
 	)
 	(global_label "TAP3"
-		(shape output)
+		(shape passive)
 		(at 29.21 50.8 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3861,7 +3940,7 @@
 		)
 		(uuid "91d1698a-be20-4515-91d9-ef74658ff9b1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2883 50.8 0)
+			(at 24.1633 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3894,7 +3973,7 @@
 		)
 	)
 	(global_label "TAP12"
-		(shape output)
+		(shape input)
 		(at 81.28 66.04 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3916,7 +3995,7 @@
 		)
 	)
 	(global_label "TAP3"
-		(shape output)
+		(shape input)
 		(at 63.5 60.96 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3938,7 +4017,7 @@
 		)
 	)
 	(global_label "TAP1"
-		(shape output)
+		(shape passive)
 		(at 29.21 45.72 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3949,7 +4028,7 @@
 		)
 		(uuid "a5843924-7331-454b-b08c-14c3ad920629")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2883 45.72 0)
+			(at 24.1633 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3982,7 +4061,7 @@
 		)
 	)
 	(global_label "TAP11"
-		(shape output)
+		(shape passive)
 		(at 29.21 71.12 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3993,7 +4072,7 @@
 		)
 		(uuid "a983daed-4242-4163-8afe-84dfdd6b727a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.3359 71.12 0)
+			(at 23.2109 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4004,7 +4083,7 @@
 		)
 	)
 	(global_label "TAP6"
-		(shape output)
+		(shape input)
 		(at 63.5 76.2 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4026,7 +4105,7 @@
 		)
 	)
 	(global_label "TAP13"
-		(shape output)
+		(shape passive)
 		(at 29.21 76.2 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4037,7 +4116,7 @@
 		)
 		(uuid "bc88015d-b2e7-4e91-be52-624d6b449360")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.3359 76.2 0)
+			(at 23.2109 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4048,7 +4127,7 @@
 		)
 	)
 	(global_label "TAP7"
-		(shape output)
+		(shape input)
 		(at 63.5 81.28 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4092,7 +4171,7 @@
 		)
 	)
 	(global_label "TAP8"
-		(shape output)
+		(shape passive)
 		(at 29.21 63.5 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4103,7 +4182,7 @@
 		)
 		(uuid "cfa9de2c-e334-4364-9e78-8fc5848fd639")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2883 63.5 0)
+			(at 24.1633 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4114,7 +4193,7 @@
 		)
 	)
 	(global_label "TAP12"
-		(shape output)
+		(shape passive)
 		(at 29.21 73.66 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4125,7 +4204,7 @@
 		)
 		(uuid "da5bb9be-f99a-4055-a87e-cbc6809a4459")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.3359 73.66 0)
+			(at 23.2109 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4136,7 +4215,7 @@
 		)
 	)
 	(global_label "TAP1"
-		(shape output)
+		(shape input)
 		(at 63.5 50.8 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4153,28 +4232,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TAP16"
-		(shape output)
-		(at 81.28 45.72 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left)
-		)
-		(uuid "e2591663-b430-4b1f-85d2-f5c4e350f195")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.1541 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -4202,7 +4259,7 @@
 		)
 	)
 	(global_label "TAP14"
-		(shape output)
+		(shape input)
 		(at 81.28 55.88 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4224,7 +4281,7 @@
 		)
 	)
 	(global_label "TAP8"
-		(shape output)
+		(shape input)
 		(at 63.5 86.36 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4246,7 +4303,7 @@
 		)
 	)
 	(global_label "TAP9"
-		(shape output)
+		(shape passive)
 		(at 29.21 66.04 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4257,7 +4314,7 @@
 		)
 		(uuid "f79266f1-b1fa-42bb-b3c1-67322c39eaf1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2883 66.04 0)
+			(at 24.1633 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4268,7 +4325,7 @@
 		)
 	)
 	(global_label "TAP14"
-		(shape output)
+		(shape passive)
 		(at 29.21 78.74 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4279,7 +4336,7 @@
 		)
 		(uuid "f9fc5dff-6d56-4144-8c70-5802aa0add42")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.3359 78.74 0)
+			(at 23.2109 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4312,7 +4369,7 @@
 		)
 	)
 	(global_label "TAP5"
-		(shape output)
+		(shape input)
 		(at 63.5 71.12 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4603,16 +4660,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 99.06 92.71 0)
+		(at 104.14 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "30b55203-3f61-46ae-8bcf-67ecf2a95fc7")
 		(property "Reference" "H2"
-			(at 101.6 91.4399 0)
+			(at 102.87 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4621,16 +4677,17 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 101.6 93.9799 0)
+			(at 106.68 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 99.06 92.71 0)
+			(at 104.14 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4639,7 +4696,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 99.06 92.71 0)
+			(at 104.14 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4648,7 +4705,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 99.06 92.71 0)
+			(at 104.14 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4693,7 +4750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "yfs:KEYSTONE_5019"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5019_Miniature"
 			(at 44.45 76.2 0)
 			(effects
 				(font
@@ -4748,6 +4805,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -4756,6 +4814,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -4809,8 +4868,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3da72e57-e8f5-4253-9e4e-948d5fa8c76e")
-		(property "Reference" "J1"
-			(at 138.43 76.2 0)
+		(property "Reference" "J2"
+			(at 138.43 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4823,6 +4882,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "yfs:CONN_SD-43045-001_16_MOL"
@@ -4903,7 +4963,7 @@
 		(instances
 			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -4917,10 +4977,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "443f4cce-fa90-48de-8716-53965cd6c600")
 		(property "Reference" "F14"
-			(at 160.02 45.72 90)
+			(at 160.02 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4928,7 +4987,7 @@
 			)
 		)
 		(property "Value" "Fuse"
-			(at 160.02 48.26 90)
+			(at 160.02 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5060,6 +5119,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -5068,6 +5128,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -5128,6 +5189,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -5136,6 +5198,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -5196,6 +5259,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -5204,6 +5268,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -5263,6 +5328,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -5271,6 +5337,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -5531,6 +5598,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -5539,6 +5607,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -5585,16 +5654,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 99.06 97.79 0)
+		(at 109.22 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "891a8aa3-5a26-4529-9512-c9f019121d41")
 		(property "Reference" "H3"
-			(at 101.6 96.5199 0)
+			(at 107.95 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5603,16 +5671,17 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 101.6 99.0599 0)
+			(at 111.76 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 99.06 97.79 0)
+			(at 109.22 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5621,7 +5690,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 99.06 97.79 0)
+			(at 109.22 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5630,7 +5699,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 99.06 97.79 0)
+			(at 109.22 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5731,6 +5800,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -5739,6 +5809,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -5799,6 +5870,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -5807,6 +5879,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -5926,10 +5999,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a91b7c7a-2846-4ba8-8ec9-172c234928fa")
 		(property "Reference" "F1"
-			(at 119.38 45.72 90)
+			(at 119.38 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5937,7 +6009,7 @@
 			)
 		)
 		(property "Value" "Fuse"
-			(at 119.38 48.26 90)
+			(at 119.38 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6002,6 +6074,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -6010,6 +6083,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -6203,6 +6277,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -6211,6 +6286,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -6263,10 +6339,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c33f4c72-ad36-4770-b035-954c58ea71ba")
-		(property "Reference" "J10"
-			(at 72.39 39.37 0)
+		(property "Reference" "J1"
+			(at 72.39 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6279,6 +6354,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "yfs:SAMTEC_TW-17-03-F-D-275-090"
@@ -6413,7 +6489,7 @@
 		(instances
 			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
-					(reference "J10")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -6621,6 +6697,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 149.86 71.12 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5d90db0-1be9-42e8-9ae0-9e2b7c9abb52")
+		(property "Reference" "#FLG01"
+			(at 149.86 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 149.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 149.86 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 149.86 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed7c466f-ffc6-4ece-bfbc-fddf160ecafa")
+		)
+		(instances
+			(project "daughter_14s"
+				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 30.48 53.34 270)
 		(unit 1)
@@ -6770,6 +6913,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -6778,6 +6922,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -6837,6 +6982,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Fuse"
@@ -6845,6 +6991,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
@@ -6897,10 +7044,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ff014f76-5b32-40fb-a688-b9936648ca3d")
 		(property "Reference" "H1"
-			(at 101.6 86.3599 0)
+			(at 97.79 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6915,6 +7061,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
