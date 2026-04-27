@@ -4392,7 +4392,7 @@
 			(uuid "bfee95f9-97ce-466d-aba1-fbc774881ee8")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP2")
 					(unit 1)
@@ -4459,7 +4459,7 @@
 			(uuid "6707e920-0c04-443d-a906-8b8d06d3e84f")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "#PWR05")
 					(unit 1)
@@ -4526,7 +4526,7 @@
 			(uuid "d0bea090-d4fe-4cc2-9da4-531fbaf440b8")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "#PWR02")
 					(unit 1)
@@ -4593,7 +4593,7 @@
 			(uuid "70c9d537-9c6f-4ccf-85a1-996c247895b3")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP4")
 					(unit 1)
@@ -4657,7 +4657,7 @@
 			)
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "H2")
 					(unit 1)
@@ -4724,7 +4724,7 @@
 			(uuid "47824a0d-29be-4837-accf-44e536d8577d")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP1")
 					(unit 1)
@@ -4792,7 +4792,7 @@
 			(uuid "65c22522-30ab-4d13-9559-2151be218fee")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F12")
 					(unit 1)
@@ -4901,7 +4901,7 @@
 			(uuid "d8cb04f4-7483-420d-87b3-72fee1809842")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "J1")
 					(unit 1)
@@ -4969,7 +4969,7 @@
 			(uuid "d3a89c34-4f71-49d8-86a5-0034519b44ca")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F14")
 					(unit 1)
@@ -5036,7 +5036,7 @@
 			(uuid "37998428-93f2-44f3-a83b-7bbec9f083fa")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP10")
 					(unit 1)
@@ -5104,7 +5104,7 @@
 			(uuid "4a740ab2-0bb9-4858-be19-938117414217")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F4")
 					(unit 1)
@@ -5172,7 +5172,7 @@
 			(uuid "5f8b5cbb-9b14-4aeb-8692-821cee22eba8")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F13")
 					(unit 1)
@@ -5240,7 +5240,7 @@
 			(uuid "82212bfe-440e-4244-8220-634fa6dbb78f")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F8")
 					(unit 1)
@@ -5307,7 +5307,7 @@
 			(uuid "cc2f2f24-dcce-42be-bf88-b28b17509c54")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F5")
 					(unit 1)
@@ -5374,7 +5374,7 @@
 			(uuid "c7113ff7-7ec9-4e21-a658-e388ff0a2691")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP6")
 					(unit 1)
@@ -5441,7 +5441,7 @@
 			(uuid "1f74065a-d9cf-4e3d-b00e-4b9d4f610ae5")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP14")
 					(unit 1)
@@ -5508,7 +5508,7 @@
 			(uuid "915a2145-bb50-40ed-a48d-f205eac4b709")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP15")
 					(unit 1)
@@ -5575,7 +5575,7 @@
 			(uuid "95c5a4f3-137f-44a9-a0c9-aab26b3130a1")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F10")
 					(unit 1)
@@ -5639,7 +5639,7 @@
 			)
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "H3")
 					(unit 1)
@@ -5707,7 +5707,7 @@
 			(uuid "4397d548-e824-4f21-8ac8-c7e00c55501f")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "#PWR01")
 					(unit 1)
@@ -5775,7 +5775,7 @@
 			(uuid "dee81cfb-dfae-40d8-929d-1742b407fbd1")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F6")
 					(unit 1)
@@ -5843,7 +5843,7 @@
 			(uuid "f60ce377-e06a-4d53-b727-b905e1e1cfa3")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F7")
 					(unit 1)
@@ -5910,7 +5910,7 @@
 			(uuid "6df8a51a-7650-4947-87e9-26dadb162e48")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP7")
 					(unit 1)
@@ -5978,7 +5978,7 @@
 			(uuid "9941b942-e45e-429b-b2e9-10cdd676a72a")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F1")
 					(unit 1)
@@ -6046,7 +6046,7 @@
 			(uuid "8a985b2b-8e98-44e7-85b3-ff0a3014bd04")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F2")
 					(unit 1)
@@ -6113,7 +6113,7 @@
 			(uuid "edc1b8c7-0f30-4eba-a4a1-c8df1dda4749")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP8")
 					(unit 1)
@@ -6180,7 +6180,7 @@
 			(uuid "a8a192fc-0647-4daa-a7fe-b1cc04cad699")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP12")
 					(unit 1)
@@ -6247,7 +6247,7 @@
 			(uuid "0a26a0e0-9586-40ed-91e9-58e348e4f6e3")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F9")
 					(unit 1)
@@ -6411,7 +6411,7 @@
 			(uuid "5efe3ca3-c349-4b9b-9c37-34675ae33a19")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "J10")
 					(unit 1)
@@ -6478,7 +6478,7 @@
 			(uuid "27f1ce3c-b9ed-4bae-9824-eec809facd4e")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP3")
 					(unit 1)
@@ -6545,7 +6545,7 @@
 			(uuid "636d4518-e631-4fac-815d-d551c5afd5b0")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP9")
 					(unit 1)
@@ -6612,7 +6612,7 @@
 			(uuid "d20450e6-6a28-4e20-9d2f-874dcde6dc79")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP11")
 					(unit 1)
@@ -6679,7 +6679,7 @@
 			(uuid "60132eaf-6f2c-4152-afcc-3fed5f5e7024")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP5")
 					(unit 1)
@@ -6746,7 +6746,7 @@
 			(uuid "9bdd983c-b576-4e96-8324-de51f8511a71")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "TP13")
 					(unit 1)
@@ -6814,7 +6814,7 @@
 			(uuid "54593ede-238b-43f4-97ec-356fb1000887")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F3")
 					(unit 1)
@@ -6881,7 +6881,7 @@
 			(uuid "7379d6df-6360-45d7-a841-55341ae73287")
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "F11")
 					(unit 1)
@@ -6945,7 +6945,7 @@
 			)
 		)
 		(instances
-			(project "bms_daughterboard"
+			(project "daughter_14s"
 				(path "/ae4a7653-8e6d-4e05-b144-1e5e3b2092b7"
 					(reference "H1")
 					(unit 1)
