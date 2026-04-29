@@ -16,8 +16,6 @@
 	)
 	(layers
 		(0 "F.Cu" signal)
-		(4 "In1.Cu" signal)
-		(6 "In2.Cu" signal)
 		(2 "B.Cu" signal)
 		(5 "F.SilkS" user "F.Silkscreen")
 		(7 "B.SilkS" user "B.Silkscreen")
@@ -43,30 +41,8 @@
 				(thickness 0.035)
 			)
 			(layer "dielectric 1"
-				(type "prepreg")
-				(thickness 0.2104)
-				(material "FR4")
-				(epsilon_r 4.4)
-				(loss_tangent 0.02)
-			)
-			(layer "In1.Cu"
-				(type "copper")
-				(thickness 0.0152)
-			)
-			(layer "dielectric 2"
 				(type "core")
-				(thickness 1.065)
-				(material "FR4")
-				(epsilon_r 4.6)
-				(loss_tangent 0.02)
-			)
-			(layer "In2.Cu"
-				(type "copper")
-				(thickness 0.0152)
-			)
-			(layer "dielectric 3"
-				(type "prepreg")
-				(thickness 0.2104)
+				(thickness 1.5162)
 				(material "FR4")
 				(epsilon_r 4.4)
 				(loss_tangent 0.02)
@@ -8203,14 +8179,6 @@
 		(uuid "dad6daf5-fdbc-43d5-8175-6927f0e81951")
 	)
 	(segment
-		(start 205.25 69.500001)
-		(end 205.250001 69.5)
-		(width 0.5)
-		(layer "In2.Cu")
-		(net 3)
-		(uuid "59e4daba-23ae-4b3d-8331-94dbbf337cd4")
-	)
-	(segment
 		(start 193.9 72)
 		(end 201.25 72)
 		(width 0.5)
@@ -8539,14 +8507,6 @@
 		(uuid "92d859c6-d94b-4b5a-956d-5ac1dacc1f12")
 	)
 	(segment
-		(start 204.9125 73.2)
-		(end 205.25 73.5375)
-		(width 0.2)
-		(layer "In2.Cu")
-		(net 12)
-		(uuid "69fddcc8-d8df-4fdd-8c29-62015f8677c1")
-	)
-	(segment
 		(start 193.9 77)
 		(end 201.25 77)
 		(width 0.5)
@@ -8721,14 +8681,6 @@
 		(layer "F.Cu")
 		(net 15)
 		(uuid "eb4c3136-a1f1-442c-af8c-1ab0053e76af")
-	)
-	(segment
-		(start 204.8875 95.9)
-		(end 205.25 95.5375)
-		(width 0.2)
-		(layer "In2.Cu")
-		(net 15)
-		(uuid "3b836561-399e-46f6-8fa8-fb83f53486f7")
 	)
 	(segment
 		(start 184.75 67.5)
@@ -12250,7 +12202,7 @@
 	(zone
 		(net 0)
 		(net_name "")
-		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu")
+		(layers "F.Cu" "B.Cu")
 		(uuid "98e7cb8e-c3b9-44a1-b643-69553b9d707d")
 		(hatch edge 0.5)
 		(connect_pads
