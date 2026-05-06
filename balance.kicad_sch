@@ -953,15 +953,6 @@
 				(hide yes)
 			)
 		)
-		(property "Dist #" "C23138"
-			(at 137.16 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mfr" "Uni-Royal"
 			(at 137.16 45.72 0)
 			(effects
@@ -980,7 +971,25 @@
 				(hide yes)
 			)
 		)
-		(property "Dist" "LCSC"
+		(property "DigiKey #" ""
+			(at 137.16 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC #" "C23138"
+			(at 137.16 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser #" ""
 			(at 137.16 45.72 0)
 			(effects
 				(font
@@ -1118,15 +1127,6 @@
 				(hide yes)
 			)
 		)
-		(property "Dist #" "C2479206"
-			(at 132.08 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mfr" "SEI"
 			(at 132.08 50.8 0)
 			(effects
@@ -1145,7 +1145,25 @@
 				(hide yes)
 			)
 		)
-		(property "Dist" "LCSC"
+		(property "DigiKey #" "RMCF2512FT20R0CT-ND"
+			(at 132.08 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC #" "C2479206"
+			(at 132.08 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser #" "708-RMCF2512FT20R0"
 			(at 132.08 50.8 0)
 			(effects
 				(font
@@ -1284,15 +1302,6 @@
 				(hide yes)
 			)
 		)
-		(property "Dist #" "C84263"
-			(at 137.16 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mfr" "Foshan NationStar Optoelectronics"
 			(at 137.16 52.07 0)
 			(effects
@@ -1303,15 +1312,6 @@
 			)
 		)
 		(property "Mfr #" "NCD0603R1"
-			(at 137.16 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dist" "LCSC"
 			(at 137.16 52.07 0)
 			(effects
 				(font
@@ -1331,6 +1331,33 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 137.16 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey #" ""
+			(at 137.16 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC #" "C84263"
+			(at 137.16 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser #" ""
+			(at 137.16 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1470,15 +1497,6 @@
 				(hide yes)
 			)
 		)
-		(property "Dist #" "C67274"
-			(at 129.54 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mfr" "Infineon"
 			(at 129.54 62.23 0)
 			(effects
@@ -1497,7 +1515,25 @@
 				(hide yes)
 			)
 		)
-		(property "Dist" "LCSC"
+		(property "DigiKey #" "IRLML0060TRPBFCT-ND"
+			(at 129.54 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC #" "C67274"
+			(at 129.54 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser #" "942-IRLML0060TRPBF"
 			(at 129.54 62.23 0)
 			(effects
 				(font
