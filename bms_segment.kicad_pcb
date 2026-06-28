@@ -7467,7 +7467,7 @@
 				)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7480,7 +7480,7 @@
 				)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7493,7 +7493,7 @@
 				)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7506,7 +7506,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7519,7 +7519,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10040,7 +10040,7 @@
 		(path "/7a970979-4ea6-4b16-bda9-e67f5aabbb2f")
 		(sheetname "/")
 		(sheetfile "bms_segment.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 3.07 -0.9)
 			(end 3.57 -0.4)
@@ -11858,7 +11858,7 @@
 				)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11871,7 +11871,7 @@
 				)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11884,7 +11884,7 @@
 				)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11897,7 +11897,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11910,7 +11910,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13381,7 +13381,7 @@
 				)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13394,7 +13394,7 @@
 				)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13407,7 +13407,7 @@
 				)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13420,7 +13420,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13433,7 +13433,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19802,7 +19802,7 @@
 				)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19815,7 +19815,7 @@
 				)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19828,7 +19828,7 @@
 				)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19841,7 +19841,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19854,7 +19854,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26347,7 +26347,7 @@
 		(path "/c139879a-22e9-47d6-b504-a0f5e56c82f0")
 		(sheetname "/")
 		(sheetfile "bms_segment.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 3.57 0.4)
 			(end 3.07 0.9)
@@ -31362,7 +31362,7 @@
 		(path "/aacd8bfb-4715-46e7-8e8d-8c37e9058fa5")
 		(sheetname "/")
 		(sheetfile "bms_segment.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -0.14058 -0.51)
 			(end 0.14058 -0.51)
@@ -34620,7 +34620,7 @@
 				)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34633,7 +34633,7 @@
 				)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34646,7 +34646,7 @@
 				)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34659,7 +34659,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34672,7 +34672,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38176,7 +38176,7 @@
 		(path "/776d43f6-7b1d-4842-8afc-a9b42a3dc8e3")
 		(sheetname "/")
 		(sheetfile "bms_segment.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.03 -0.4)
 			(end -0.53 -0.9)
@@ -38970,7 +38970,7 @@
 				)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38983,7 +38983,7 @@
 				)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38996,7 +38996,7 @@
 				)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39009,7 +39009,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39022,7 +39022,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44830,6 +44830,32 @@
 				)
 			)
 		)
+		(property "Mfr" "Samtec"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f017e7bc-2b69-4460-a3b1-bdb6e69511fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr #" "TW-17-03-F-D-275-090"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47c1603e-4d31-4490-add7-d2d27eb2e9a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/c33f4c72-ad36-4770-b035-954c58ea71ba")
 		(sheetname "/")
@@ -48452,7 +48478,7 @@
 		(path "/8edb73df-2b4d-4661-b460-6529bdd82504")
 		(sheetname "/")
 		(sheetfile "bms_segment.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -0.237258 -0.5225)
 			(end 0.237258 -0.5225)
@@ -51462,7 +51488,7 @@
 		(path "/dee314f8-52d8-4917-8e26-235a715036c7")
 		(sheetname "/")
 		(sheetfile "bms_segment.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.03 -0.4)
 			(end -0.53 -0.9)
@@ -51712,7 +51738,7 @@
 				)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51725,7 +51751,7 @@
 				)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51738,7 +51764,7 @@
 				)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51751,7 +51777,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51764,7 +51790,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57171,7 +57197,7 @@
 		(path "/82f49e5e-5ba4-42dc-9c27-e22e694ac30a")
 		(sheetname "/")
 		(sheetfile "bms_segment.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 3.57 0.4)
 			(end 3.07 0.9)
@@ -58081,7 +58107,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -58095,7 +58121,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -58109,7 +58135,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -58123,7 +58149,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -58137,7 +58163,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60032,7 +60058,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60046,7 +60072,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60060,7 +60086,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60074,7 +60100,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60088,7 +60114,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60362,7 +60388,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60376,7 +60402,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60390,7 +60416,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60404,7 +60430,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60418,7 +60444,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60692,7 +60718,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60706,7 +60732,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60720,7 +60746,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60734,7 +60760,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -60748,7 +60774,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -61656,7 +61682,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -61670,7 +61696,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -61684,7 +61710,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -61698,7 +61724,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -61712,7 +61738,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")

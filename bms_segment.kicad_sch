@@ -22930,7 +22930,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "776d43f6-7b1d-4842-8afc-a9b42a3dc8e3")
@@ -23291,7 +23291,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7a970979-4ea6-4b16-bda9-e67f5aabbb2f")
@@ -23633,7 +23633,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "82f49e5e-5ba4-42dc-9c27-e22e694ac30a")
@@ -24651,7 +24651,7 @@
 		(at 256.54 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -26250,7 +26250,7 @@
 		(at 262.89 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "aacd8bfb-4715-46e7-8e8d-8c37e9058fa5")
@@ -27314,7 +27314,7 @@
 		(at 259.08 24.13 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c139879a-22e9-47d6-b504-a0f5e56c82f0")
@@ -27494,6 +27494,24 @@
 			)
 		)
 		(property "Mouser #" ""
+			(at 245.11 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "Samtec"
+			(at 245.11 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr #" "TW-17-03-F-D-275-090"
 			(at 245.11 96.52 90)
 			(effects
 				(font
@@ -29855,7 +29873,7 @@
 		(at 200.66 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "dee314f8-52d8-4917-8e26-235a715036c7")

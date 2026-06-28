@@ -903,7 +903,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey #" "CAY16-103J4LFCT-ND"
+		(property "DigiKey #" "13-YC324-FK-0710KLCT-ND"
 			(at 113.03 49.53 90)
 			(effects
 				(font
@@ -912,7 +912,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC #" "C784821"
+		(property "LCSC #" "C876914"
 			(at 113.03 49.53 90)
 			(effects
 				(font
@@ -921,7 +921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser #" "652-CAY16-103J4LF"
+		(property "Mouser #" "603-YC324-FK-0710KL"
 			(at 113.03 49.53 90)
 			(effects
 				(font
@@ -930,7 +930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Bourns"
+		(property "Mfr" "YAGEO"
 			(at 113.03 49.53 90)
 			(effects
 				(font
@@ -939,7 +939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" "CAY16-103J4LF"
+		(property "Mfr #" "YC324-FK-0710KL"
 			(at 113.03 49.53 90)
 			(effects
 				(font
