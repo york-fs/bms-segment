@@ -6,19 +6,27 @@
 ![ERC Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fyork-fs.github.io%2Fbms-segment%2Ferc.json)
 ![DRC Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fyork-fs.github.io%2Fbms-segment%2Fdrc.json)
 
-The distributed BMS segment board connects to a series string of 12 cells and can be queried over isolated I2C to sample
-cell voltages and temperatures.
+The BMS segment board is part of the car's distributed BMS design. It connects to a series string of up to 16 cells and
+connects over an isolated I2C interface to the BMS master board to transfer cell voltage and temperature measurements.
+
+[Latest Release](https://github.com/york-fs/bms-segment/releases/latest)
+[Interactive BOM](https://york-fs.github.io/bms-segment/ibom.html)
 
 ## Features
 
+* **Up to 16-Cell Voltage Measurement Frontend with Passive Balancing**
+  * Utilises the MAX14921 analog frontend IC
+* **Buck Converter to Derive On-Board Power From the Connected Segment**
+  * Around 120 uA quiescent current consumption in standby
 * **Isolated I2C Communication to the Master Board**
-* **Accurate Voltage Measurement Using the MAX14920 Analog Frontend**
-* **Passive Cell Balancing**
-* **Up to 23 Connected Thermistors**
-  * Three onboard thermistors around the cell balancers
+* **Up to 24 Connected Thermistors**
+  * Four onboard thermistors spread across the cell balancers
   * Twenty external thermistors across two JST PUD connectors
+* **Short Circuit Protection on the External Thermistors**
+* **Daughter Board Design for Connecting Cell Taps**
+  * Allows any cell tap connector to be used and the ability to use any cell count between 3 and 16
 
-![Preview Render](https://york-fs.github.io/bms-segment/preview.jpg)
+![Render Preview](https://york-fs.github.io/bms-segment/render.jpg)
 
 ## Cloning
 
