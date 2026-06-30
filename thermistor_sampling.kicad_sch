@@ -3238,7 +3238,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1f1b818b-1d05-41cb-a724-54ea5297b455")
 		(property "Reference" "C45"
@@ -3250,7 +3250,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1n"
 			(at 172.72 106.6862 0)
 			(effects
 				(font
@@ -3286,7 +3286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Samsung"
+		(property "Mfr" ""
 			(at 170.18 105.41 0)
 			(effects
 				(font
@@ -3295,7 +3295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" "CL10B105KB8NQNC"
+		(property "Mfr #" ""
 			(at 170.18 105.41 0)
 			(effects
 				(font
@@ -3313,7 +3313,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC #" "C5199872"
+		(property "LCSC #" ""
 			(at 170.18 105.41 0)
 			(effects
 				(font
@@ -3322,7 +3322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser #" "187-CL10B105KB8NQNC"
+		(property "Mouser #" ""
 			(at 170.18 105.41 0)
 			(effects
 				(font
@@ -4225,7 +4225,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6f1bf927-20c9-43d7-9b04-9e568cbd189f")
 		(property "Reference" "C46"
@@ -4237,7 +4237,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1n"
 			(at 172.72 138.4362 0)
 			(effects
 				(font
@@ -4273,7 +4273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Samsung"
+		(property "Mfr" ""
 			(at 170.18 137.16 0)
 			(effects
 				(font
@@ -4282,7 +4282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" "CL10B105KB8NQNC"
+		(property "Mfr #" ""
 			(at 170.18 137.16 0)
 			(effects
 				(font
@@ -4300,7 +4300,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC #" "C5199872"
+		(property "LCSC #" ""
 			(at 170.18 137.16 0)
 			(effects
 				(font
@@ -4309,7 +4309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser #" "187-CL10B105KB8NQNC"
+		(property "Mouser #" ""
 			(at 170.18 137.16 0)
 			(effects
 				(font
@@ -5518,7 +5518,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ca609bc5-3568-42e5-92d7-8d5cd0106e7e")
 		(property "Reference" "C44"
@@ -5530,7 +5530,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1n"
 			(at 172.72 74.9362 0)
 			(effects
 				(font
@@ -5566,7 +5566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Samsung"
+		(property "Mfr" ""
 			(at 170.18 73.66 0)
 			(effects
 				(font
@@ -5575,7 +5575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" "CL10B105KB8NQNC"
+		(property "Mfr #" ""
 			(at 170.18 73.66 0)
 			(effects
 				(font
@@ -5593,7 +5593,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC #" "C5199872"
+		(property "LCSC #" ""
 			(at 170.18 73.66 0)
 			(effects
 				(font
@@ -5602,7 +5602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser #" "187-CL10B105KB8NQNC"
+		(property "Mouser #" ""
 			(at 170.18 73.66 0)
 			(effects
 				(font

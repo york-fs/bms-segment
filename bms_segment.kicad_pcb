@@ -18502,7 +18502,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1n"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "22daa87d-b0d8-4723-9fed-09231408cdb8")
@@ -18563,7 +18563,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Samsung"
+		(property "Mfr" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18576,7 +18576,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "CL10B105KB8NQNC"
+		(property "Mfr #" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18602,7 +18602,7 @@
 				)
 			)
 		)
-		(property "LCSC #" "C5199872"
+		(property "LCSC #" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18615,7 +18615,7 @@
 				)
 			)
 		)
-		(property "Mouser #" "187-CL10B105KB8NQNC"
+		(property "Mouser #" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18632,7 +18632,7 @@
 		(path "/8e615871-66d5-4c39-bd5b-a90cbe433475/ca609bc5-3568-42e5-92d7-8d5cd0106e7e")
 		(sheetname "/Thermistor Sampling/")
 		(sheetfile "thermistor_sampling.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.14058 -0.51)
 			(end 0.14058 -0.51)
@@ -30531,7 +30531,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1n"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "35fc67d3-ad60-46dc-a99b-3b622a12d5c5")
@@ -30592,7 +30592,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Samsung"
+		(property "Mfr" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30605,7 +30605,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "CL10B105KB8NQNC"
+		(property "Mfr #" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30631,7 +30631,7 @@
 				)
 			)
 		)
-		(property "LCSC #" "C5199872"
+		(property "LCSC #" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30644,7 +30644,7 @@
 				)
 			)
 		)
-		(property "Mouser #" "187-CL10B105KB8NQNC"
+		(property "Mouser #" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30661,7 +30661,7 @@
 		(path "/8e615871-66d5-4c39-bd5b-a90cbe433475/1f1b818b-1d05-41cb-a724-54ea5297b455")
 		(sheetname "/Thermistor Sampling/")
 		(sheetfile "thermistor_sampling.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.14058 -0.51)
 			(end 0.14058 -0.51)
@@ -36139,7 +36139,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1n"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "1fd4bde5-5585-4a32-97bc-bdbc541f16f2")
@@ -36200,7 +36200,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Samsung"
+		(property "Mfr" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36213,7 +36213,7 @@
 				)
 			)
 		)
-		(property "Mfr #" "CL10B105KB8NQNC"
+		(property "Mfr #" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36239,7 +36239,7 @@
 				)
 			)
 		)
-		(property "LCSC #" "C5199872"
+		(property "LCSC #" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36252,7 +36252,7 @@
 				)
 			)
 		)
-		(property "Mouser #" "187-CL10B105KB8NQNC"
+		(property "Mouser #" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36269,7 +36269,7 @@
 		(path "/8e615871-66d5-4c39-bd5b-a90cbe433475/6f1bf927-20c9-43d7-9b04-9e568cbd189f")
 		(sheetname "/Thermistor Sampling/")
 		(sheetfile "thermistor_sampling.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.14058 -0.51)
 			(end 0.14058 -0.51)
